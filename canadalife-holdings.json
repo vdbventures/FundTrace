@@ -1,0 +1,110 @@
+{
+  "version": "v1",
+  "scrapedAt": "2026-05-27T23:07:13.279Z",
+  "results": {
+    "2317": {
+      "instrumentId": "2317",
+      "fundCode": "CL2317",
+      "fundName": "Canada Life Advanced Portfolio - Series 1",
+      "source": "canadalife-fundata-html",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/2317",
+      "asOf": "2026-02-28",
+      "isFundOfFunds": true,
+      "dataQuality": "top10-actual",
+      "scrapedAt": "2026-05-27T23:07:13.277Z",
+      "holdings": [
+        {
+          "name": "Standard deviation",
+          "weight": 8.1,
+          "weightSource": "actual",
+          "rank": 11
+        },
+        {
+          "name": "Cash and Cash Equivalents",
+          "weight": 6.6,
+          "weightSource": "actual",
+          "rank": 1
+        },
+        {
+          "name": "Duration (years)",
+          "weight": 6.6,
+          "weightSource": "actual",
+          "rank": 14
+        },
+        {
+          "name": "Canada Life Canadian Core Fixed Income Fund Series R",
+          "weight": 5,
+          "weightSource": "actual",
+          "rank": 2
+        },
+        {
+          "name": "Coupon",
+          "weight": 4.5,
+          "weightSource": "actual",
+          "rank": 15
+        },
+        {
+          "name": "Yield to maturity",
+          "weight": 4.3,
+          "weightSource": "actual",
+          "rank": 13
+        },
+        {
+          "name": "Canada Life Global Multi-Asset Defensive+ Fund R",
+          "weight": 2,
+          "weightSource": "actual",
+          "rank": 3
+        },
+        {
+          "name": "NVIDIA Corp",
+          "weight": 1.8,
+          "weightSource": "actual",
+          "rank": 4
+        },
+        {
+          "name": "Apple Inc",
+          "weight": 1.7,
+          "weightSource": "actual",
+          "rank": 5
+        },
+        {
+          "name": "Dividend yield",
+          "weight": 1.7,
+          "weightSource": "actual",
+          "rank": 12
+        },
+        {
+          "name": "Royal Bank of Canada",
+          "weight": 1.6,
+          "weightSource": "actual",
+          "rank": 6
+        },
+        {
+          "name": "Microsoft Corp",
+          "weight": 1.5,
+          "weightSource": "actual",
+          "rank": 7
+        },
+        {
+          "name": "Agnico Eagle Mines Ltd",
+          "weight": 1.2,
+          "weightSource": "actual",
+          "rank": 8
+        },
+        {
+          "name": "Toronto-Dominion Bank",
+          "weight": 1.1,
+          "weightSource": "actual",
+          "rank": 9
+        },
+        {
+          "name": "Broadcom Inc",
+          "weight": 1.1,
+          "weightSource": "actual",
+          "rank": 10
+        }
+      ]
+    }
+  },
+  "failed": []
+}

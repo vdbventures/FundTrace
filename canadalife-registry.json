@@ -1,0 +1,4536 @@
+{
+  "version": "1.0",
+  "builtAt": "2026-05-27T23:08:02.777Z",
+  "totalFunds": 566,
+  "source": "canadalifemutualfunds.fundata.com",
+  "registry": {
+    "1032": {
+      "instrumentId": "1032",
+      "name": "Canada Life Canadian Core Bond Fund A",
+      "code": "CL1032",
+      "series": "A",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/1032"
+    },
+    "1040": {
+      "instrumentId": "1040",
+      "name": "Canada Life Canadian Core Plus Bond Fund A",
+      "code": "CL1040",
+      "series": "A",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/1040"
+    },
+    "1041": {
+      "instrumentId": "1041",
+      "name": "Canada Life Money Market Fund A",
+      "code": "CL1041",
+      "series": "A",
+      "assetClass": "money_market",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/1041"
+    },
+    "2314": {
+      "instrumentId": "2314",
+      "name": "Canada Life Conservative Portfolio A",
+      "code": "CL2314",
+      "series": "A",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/2314"
+    },
+    "2315": {
+      "instrumentId": "2315",
+      "name": "Canada Life Moderate Portfolio Fund A",
+      "code": "CL2315",
+      "series": "A",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/2315"
+    },
+    "2316": {
+      "instrumentId": "2316",
+      "name": "Canada Life Balanced Portfolio A",
+      "code": "CL2316",
+      "series": "A",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/2316"
+    },
+    "2317": {
+      "instrumentId": "2317",
+      "name": "Canada Life Advanced Portfolio A",
+      "code": "CL2317",
+      "series": "A",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/2317"
+    },
+    "2318": {
+      "instrumentId": "2318",
+      "name": "Canada Life Aggressive Portfolio A",
+      "code": "CL2318",
+      "series": "A",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/2318"
+    },
+    "2320": {
+      "instrumentId": "2320",
+      "name": "Canada Life Canadian Corporate Bond Fund A",
+      "code": "CL2320",
+      "series": "A",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/2320"
+    },
+    "2321": {
+      "instrumentId": "2321",
+      "name": "Canada Life Canadian Growth Fund A",
+      "code": "CL2321",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/2321"
+    },
+    "2322": {
+      "instrumentId": "2322",
+      "name": "Canada Life Canadian Focused Small-Mid Cap Fund A",
+      "code": "CL2322",
+      "series": "A",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/2322"
+    },
+    "3133": {
+      "instrumentId": "3133",
+      "name": "Canada Life Global Resources Fund A",
+      "code": "CL3133",
+      "series": "A",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/3133"
+    },
+    "14053": {
+      "instrumentId": "14053",
+      "name": "Canada Life Balanced Portfolio T8",
+      "code": "CL14053",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/14053"
+    },
+    "14054": {
+      "instrumentId": "14054",
+      "name": "Canada Life Advanced Portfolio T8",
+      "code": "CL14054",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/14054"
+    },
+    "14409": {
+      "instrumentId": "14409",
+      "name": "Canada Life Moderate Portfolio Fund T5",
+      "code": "CL14409",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/14409"
+    },
+    "14410": {
+      "instrumentId": "14410",
+      "name": "Canada Life Balanced Portfolio T5",
+      "code": "CL14410",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/14410"
+    },
+    "14411": {
+      "instrumentId": "14411",
+      "name": "Canada Life Advanced Portfolio T5",
+      "code": "CL14411",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/14411"
+    },
+    "14412": {
+      "instrumentId": "14412",
+      "name": "Canada Life Aggressive Portfolio T5",
+      "code": "CL14412",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/14412"
+    },
+    "14413": {
+      "instrumentId": "14413",
+      "name": "Canada Life Aggressive Portfolio T8",
+      "code": "CL14413",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/14413"
+    },
+    "14426": {
+      "instrumentId": "14426",
+      "name": "Canada Life Canadian Growth Fund T5",
+      "code": "CL14426",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/14426"
+    },
+    "138626": {
+      "instrumentId": "138626",
+      "name": "Canada Life Canadian Growth Fund T8",
+      "code": "CL138626",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/138626"
+    },
+    "240691": {
+      "instrumentId": "240691",
+      "name": "Canada Life Canadian Core Bond Fund N",
+      "code": "CL240691",
+      "series": "N",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/240691"
+    },
+    "240693": {
+      "instrumentId": "240693",
+      "name": "Canada Life Global Resources Fund N",
+      "code": "CL240693",
+      "series": "N",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/240693"
+    },
+    "240698": {
+      "instrumentId": "240698",
+      "name": "Canada Life Canadian Corporate Bond Fund N",
+      "code": "CL240698",
+      "series": "N",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/240698"
+    },
+    "240699": {
+      "instrumentId": "240699",
+      "name": "Canada Life Canadian Growth Fund N",
+      "code": "CL240699",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/240699"
+    },
+    "240700": {
+      "instrumentId": "240700",
+      "name": "Canada Life Canadian Focused Small-Mid Cap Fund N",
+      "code": "CL240700",
+      "series": "N",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/240700"
+    },
+    "240701": {
+      "instrumentId": "240701",
+      "name": "Canada Life Conservative Portfolio N",
+      "code": "CL240701",
+      "series": "N",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/240701"
+    },
+    "240702": {
+      "instrumentId": "240702",
+      "name": "Canada Life Moderate Portfolio Fund N",
+      "code": "CL240702",
+      "series": "N",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/240702"
+    },
+    "240703": {
+      "instrumentId": "240703",
+      "name": "Canada Life Balanced Portfolio N",
+      "code": "CL240703",
+      "series": "N",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/240703"
+    },
+    "240704": {
+      "instrumentId": "240704",
+      "name": "Canada Life Advanced Portfolio N",
+      "code": "CL240704",
+      "series": "N",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/240704"
+    },
+    "240705": {
+      "instrumentId": "240705",
+      "name": "Canada Life Aggressive Portfolio N",
+      "code": "CL240705",
+      "series": "N",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/240705"
+    },
+    "240719": {
+      "instrumentId": "240719",
+      "name": "Canada Life Canadian Core Plus Bond Fund N",
+      "code": "CL240719",
+      "series": "N",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/240719"
+    },
+    "290363": {
+      "instrumentId": "290363",
+      "name": "Canada Life Money Market Fund RB",
+      "code": "CL290363",
+      "series": null,
+      "assetClass": "money_market",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/290363"
+    },
+    "295120": {
+      "instrumentId": "295120",
+      "name": "Canada Life Moderate Portfolio Fund F5",
+      "code": "CL295120",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/295120"
+    },
+    "295122": {
+      "instrumentId": "295122",
+      "name": "Canada Life Aggressive Portfolio F5",
+      "code": "CL295122",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/295122"
+    },
+    "295123": {
+      "instrumentId": "295123",
+      "name": "Canada Life Balanced Portfolio F5",
+      "code": "CL295123",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/295123"
+    },
+    "295136": {
+      "instrumentId": "295136",
+      "name": "Canada Life Advanced Portfolio F5",
+      "code": "CL295136",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/295136"
+    },
+    "295145": {
+      "instrumentId": "295145",
+      "name": "Canada Life Canadian Growth Fund F5",
+      "code": "CL295145",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/295145"
+    },
+    "295155": {
+      "instrumentId": "295155",
+      "name": "Canada Life Balanced Portfolio F8",
+      "code": "CL295155",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/295155"
+    },
+    "298291": {
+      "instrumentId": "298291",
+      "name": "Canada Life Canadian Core Bond Fund W",
+      "code": "CL298291",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298291"
+    },
+    "298299": {
+      "instrumentId": "298299",
+      "name": "Canada Life Canadian Focused Small-Mid Cap Fund W",
+      "code": "CL298299",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298299"
+    },
+    "298300": {
+      "instrumentId": "298300",
+      "name": "Canada Life Advanced Portfolio W",
+      "code": "CL298300",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298300"
+    },
+    "298306": {
+      "instrumentId": "298306",
+      "name": "Canada Life Aggressive Portfolio W",
+      "code": "CL298306",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298306"
+    },
+    "298307": {
+      "instrumentId": "298307",
+      "name": "Canada Life Conservative Portfolio W",
+      "code": "CL298307",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298307"
+    },
+    "298308": {
+      "instrumentId": "298308",
+      "name": "Canada Life Canadian Growth Fund W",
+      "code": "CL298308",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298308"
+    },
+    "298309": {
+      "instrumentId": "298309",
+      "name": "Canada Life Balanced Portfolio W",
+      "code": "CL298309",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298309"
+    },
+    "298310": {
+      "instrumentId": "298310",
+      "name": "Canada Life Canadian Corporate Bond Fund W",
+      "code": "CL298310",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298310"
+    },
+    "298399": {
+      "instrumentId": "298399",
+      "name": "Canada Life Global Resources Fund W",
+      "code": "CL298399",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298399"
+    },
+    "298403": {
+      "instrumentId": "298403",
+      "name": "Canada Life Canadian Core Plus Bond Fund W",
+      "code": "CL298403",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298403"
+    },
+    "298409": {
+      "instrumentId": "298409",
+      "name": "Canada Life Money Market Fund N",
+      "code": "CL298409",
+      "series": "N",
+      "assetClass": "money_market",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298409"
+    },
+    "298452": {
+      "instrumentId": "298452",
+      "name": "Canada Life Money Market Fund W",
+      "code": "CL298452",
+      "series": null,
+      "assetClass": "money_market",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298452"
+    },
+    "298462": {
+      "instrumentId": "298462",
+      "name": "Canada Life Moderate Portfolio Fund W",
+      "code": "CL298462",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298462"
+    },
+    "298481": {
+      "instrumentId": "298481",
+      "name": "Canada Life Aggressive Portfolio N5",
+      "code": "CL298481",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298481"
+    },
+    "298487": {
+      "instrumentId": "298487",
+      "name": "Canada Life Aggressive Portfolio W8",
+      "code": "CL298487",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298487"
+    },
+    "298491": {
+      "instrumentId": "298491",
+      "name": "Canada Life Balanced Portfolio W5",
+      "code": "CL298491",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298491"
+    },
+    "298498": {
+      "instrumentId": "298498",
+      "name": "Canada Life Canadian Growth Fund N5",
+      "code": "CL298498",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298498"
+    },
+    "298503": {
+      "instrumentId": "298503",
+      "name": "Canada Life Canadian Growth Fund W8",
+      "code": "CL298503",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298503"
+    },
+    "298509": {
+      "instrumentId": "298509",
+      "name": "Canada Life Balanced Portfolio N5",
+      "code": "CL298509",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298509"
+    },
+    "298512": {
+      "instrumentId": "298512",
+      "name": "Canada Life Canadian Growth Fund W5",
+      "code": "CL298512",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298512"
+    },
+    "298518": {
+      "instrumentId": "298518",
+      "name": "Canada Life Advanced Portfolio W8",
+      "code": "CL298518",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298518"
+    },
+    "298523": {
+      "instrumentId": "298523",
+      "name": "Canada Life Balanced Portfolio N8",
+      "code": "CL298523",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298523"
+    },
+    "298525": {
+      "instrumentId": "298525",
+      "name": "Canada Life Advanced Portfolio N5",
+      "code": "CL298525",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298525"
+    },
+    "298527": {
+      "instrumentId": "298527",
+      "name": "Canada Life Advanced Portfolio W5",
+      "code": "CL298527",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298527"
+    },
+    "298532": {
+      "instrumentId": "298532",
+      "name": "Canada Life Balanced Portfolio W8",
+      "code": "CL298532",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298532"
+    },
+    "298533": {
+      "instrumentId": "298533",
+      "name": "Canada Life Aggressive Portfolio W5",
+      "code": "CL298533",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298533"
+    },
+    "298580": {
+      "instrumentId": "298580",
+      "name": "Canada Life Moderate Portfolio Fund N5",
+      "code": "CL298580",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298580"
+    },
+    "298595": {
+      "instrumentId": "298595",
+      "name": "Canada Life Moderate Portfolio Fund W5",
+      "code": "CL298595",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/298595"
+    },
+    "299838": {
+      "instrumentId": "299838",
+      "name": "Canada Life Canadian Focused Small-Mid Cap Fund F",
+      "code": "CL299838",
+      "series": "F",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/299838"
+    },
+    "299842": {
+      "instrumentId": "299842",
+      "name": "Canada Life Balanced Portfolio F",
+      "code": "CL299842",
+      "series": "F",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/299842"
+    },
+    "299843": {
+      "instrumentId": "299843",
+      "name": "Canada Life Aggressive Portfolio F",
+      "code": "CL299843",
+      "series": "F",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/299843"
+    },
+    "299883": {
+      "instrumentId": "299883",
+      "name": "Canada Life Canadian Corporate Bond Fund F",
+      "code": "CL299883",
+      "series": "F",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/299883"
+    },
+    "299927": {
+      "instrumentId": "299927",
+      "name": "Canada Life Advanced Portfolio F",
+      "code": "CL299927",
+      "series": "F",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/299927"
+    },
+    "299969": {
+      "instrumentId": "299969",
+      "name": "Canada Life Money Market Fund F",
+      "code": "CL299969",
+      "series": "F",
+      "assetClass": "money_market",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/299969"
+    },
+    "299970": {
+      "instrumentId": "299970",
+      "name": "Canada Life Canadian Core Bond Fund F",
+      "code": "CL299970",
+      "series": "F",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/299970"
+    },
+    "300019": {
+      "instrumentId": "300019",
+      "name": "Canada Life Global Resources Fund F",
+      "code": "CL300019",
+      "series": "F",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/300019"
+    },
+    "300093": {
+      "instrumentId": "300093",
+      "name": "Canada Life Moderate Portfolio Fund F",
+      "code": "CL300093",
+      "series": "F",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/300093"
+    },
+    "300136": {
+      "instrumentId": "300136",
+      "name": "Canada Life Canadian Core Plus Bond Fund F",
+      "code": "CL300136",
+      "series": "F",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/300136"
+    },
+    "300137": {
+      "instrumentId": "300137",
+      "name": "Canada Life Conservative Portfolio F",
+      "code": "CL300137",
+      "series": "F",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/300137"
+    },
+    "300144": {
+      "instrumentId": "300144",
+      "name": "Canada Life Canadian Growth Fund F",
+      "code": "CL300144",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/300144"
+    },
+    "339823": {
+      "instrumentId": "339823",
+      "name": "Canada Life Global High Yield Fixed Income Fund W",
+      "code": "CL339823",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/339823"
+    },
+    "361583": {
+      "instrumentId": "361583",
+      "name": "Canada Life Global High Yield Fixed Income Fund A",
+      "code": "CL361583",
+      "series": "A",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/361583"
+    },
+    "361783": {
+      "instrumentId": "361783",
+      "name": "Canada Life Global High Yield Fixed Income Fund N",
+      "code": "CL361783",
+      "series": "N",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/361783"
+    },
+    "402758": {
+      "instrumentId": "402758",
+      "name": "Canada Life Conservative Portfolio W U$",
+      "code": "CL402758",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402758"
+    },
+    "402763": {
+      "instrumentId": "402763",
+      "name": "Canada Life Moderate Portfolio Fund U$",
+      "code": "CL402763",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402763"
+    },
+    "402765": {
+      "instrumentId": "402765",
+      "name": "Canada Life Conservative Portfolio U$",
+      "code": "CL402765",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402765"
+    },
+    "402771": {
+      "instrumentId": "402771",
+      "name": "Canada Life Conservative Portfolio N U$",
+      "code": "CL402771",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402771"
+    },
+    "402811": {
+      "instrumentId": "402811",
+      "name": "Canada Life Balanced Portfolio W U$",
+      "code": "CL402811",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402811"
+    },
+    "402812": {
+      "instrumentId": "402812",
+      "name": "Canada Life Advanced Portfolio U$",
+      "code": "CL402812",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402812"
+    },
+    "402813": {
+      "instrumentId": "402813",
+      "name": "Canada Life Advanced Portfolio W U$",
+      "code": "CL402813",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402813"
+    },
+    "402814": {
+      "instrumentId": "402814",
+      "name": "Canada Life Aggressive Portfolio W U$",
+      "code": "CL402814",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402814"
+    },
+    "402815": {
+      "instrumentId": "402815",
+      "name": "Canada Life Balanced Portfolio U$",
+      "code": "CL402815",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402815"
+    },
+    "402816": {
+      "instrumentId": "402816",
+      "name": "Canada Life Advanced Portfolio N U$",
+      "code": "CL402816",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402816"
+    },
+    "402817": {
+      "instrumentId": "402817",
+      "name": "Canada Life Balanced Portfolio N U$",
+      "code": "CL402817",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402817"
+    },
+    "402819": {
+      "instrumentId": "402819",
+      "name": "Canada Life Moderate Portfolio Fund N U$",
+      "code": "CL402819",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402819"
+    },
+    "402820": {
+      "instrumentId": "402820",
+      "name": "Canada Life Moderate Portfolio Fund W U$",
+      "code": "CL402820",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402820"
+    },
+    "402821": {
+      "instrumentId": "402821",
+      "name": "Canada Life Aggressive Portfolio N U$",
+      "code": "CL402821",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402821"
+    },
+    "402822": {
+      "instrumentId": "402822",
+      "name": "Canada Life Canadian Corporate Bond Fund U$",
+      "code": "CL402822",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402822"
+    },
+    "402823": {
+      "instrumentId": "402823",
+      "name": "Canada Life Aggressive Portfolio U$",
+      "code": "CL402823",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402823"
+    },
+    "402824": {
+      "instrumentId": "402824",
+      "name": "Canada Life Canadian Corporate Bond Fund W U$",
+      "code": "CL402824",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402824"
+    },
+    "402826": {
+      "instrumentId": "402826",
+      "name": "Canada Life Canadian Corporate Bond Fund N U$",
+      "code": "CL402826",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402826"
+    },
+    "402828": {
+      "instrumentId": "402828",
+      "name": "Canada Life Canadian Core Plus Bond Fund U$",
+      "code": "CL402828",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402828"
+    },
+    "402829": {
+      "instrumentId": "402829",
+      "name": "Canada Life Canadian Core Plus Bond Fund W U$",
+      "code": "CL402829",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402829"
+    },
+    "402830": {
+      "instrumentId": "402830",
+      "name": "Canada Life Canadian Core Plus Bond Fund N U$",
+      "code": "CL402830",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/402830"
+    },
+    "427121": {
+      "instrumentId": "427121",
+      "name": "Canada Life Global Strategic Income Fund T5",
+      "code": "CL427121",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/427121"
+    },
+    "427122": {
+      "instrumentId": "427122",
+      "name": "Canada Life Global Strategic Income Fund A",
+      "code": "CL427122",
+      "series": "A",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/427122"
+    },
+    "427123": {
+      "instrumentId": "427123",
+      "name": "Canada Life Global Strategic Income Fund F",
+      "code": "CL427123",
+      "series": "F",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/427123"
+    },
+    "427124": {
+      "instrumentId": "427124",
+      "name": "Canada Life Global Strategic Income Fund F5",
+      "code": "CL427124",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/427124"
+    },
+    "427125": {
+      "instrumentId": "427125",
+      "name": "Canada Life Global Strategic Income Fund W",
+      "code": "CL427125",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/427125"
+    },
+    "427126": {
+      "instrumentId": "427126",
+      "name": "Canada Life Global Strategic Income Fund W5",
+      "code": "CL427126",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/427126"
+    },
+    "427127": {
+      "instrumentId": "427127",
+      "name": "Canada Life Global Strategic Income Fund N5",
+      "code": "CL427127",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/427127"
+    },
+    "427128": {
+      "instrumentId": "427128",
+      "name": "Canada Life Global Strategic Income Fund N",
+      "code": "CL427128",
+      "series": "N",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/427128"
+    },
+    "433835": {
+      "instrumentId": "433835",
+      "name": "Canada Life Diversified Fixed Income Portfolio QF",
+      "code": "CL433835",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433835"
+    },
+    "433840": {
+      "instrumentId": "433840",
+      "name": "Canada Life Balanced Portfolio QF",
+      "code": "CL433840",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433840"
+    },
+    "433844": {
+      "instrumentId": "433844",
+      "name": "Canada Life Balanced Portfolio QF5",
+      "code": "CL433844",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433844"
+    },
+    "433845": {
+      "instrumentId": "433845",
+      "name": "Canada Life Global Equity Fund N5",
+      "code": "CL433845",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433845"
+    },
+    "433846": {
+      "instrumentId": "433846",
+      "name": "Canada Life Global Equity Fund F",
+      "code": "CL433846",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433846"
+    },
+    "433850": {
+      "instrumentId": "433850",
+      "name": "Canada Life Global Equity Fund F5",
+      "code": "CL433850",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433850"
+    },
+    "433851": {
+      "instrumentId": "433851",
+      "name": "Canada Life Global Strategic Income Fund QF5",
+      "code": "CL433851",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433851"
+    },
+    "433855": {
+      "instrumentId": "433855",
+      "name": "Canada Life Global Resources Fund QF",
+      "code": "CL433855",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433855"
+    },
+    "433865": {
+      "instrumentId": "433865",
+      "name": "Canada Life Global Equity Fund T5",
+      "code": "CL433865",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433865"
+    },
+    "433868": {
+      "instrumentId": "433868",
+      "name": "Canada Life Conservative Portfolio QF",
+      "code": "CL433868",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433868"
+    },
+    "433890": {
+      "instrumentId": "433890",
+      "name": "Canada Life Canadian Core Plus Bond Fund QF",
+      "code": "CL433890",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433890"
+    },
+    "433896": {
+      "instrumentId": "433896",
+      "name": "Canada Life Global Equity Fund QF5",
+      "code": "CL433896",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433896"
+    },
+    "433898": {
+      "instrumentId": "433898",
+      "name": "Canada Life Global Equity Fund W",
+      "code": "CL433898",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433898"
+    },
+    "433899": {
+      "instrumentId": "433899",
+      "name": "Canada Life Canadian Growth Fund QF",
+      "code": "CL433899",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433899"
+    },
+    "433904": {
+      "instrumentId": "433904",
+      "name": "Canada Life Diversified Fixed Income Portfolio F",
+      "code": "CL433904",
+      "series": "F",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433904"
+    },
+    "433909": {
+      "instrumentId": "433909",
+      "name": "Canada Life Advanced Portfolio QF5",
+      "code": "CL433909",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433909"
+    },
+    "433912": {
+      "instrumentId": "433912",
+      "name": "Canada Life Advanced Portfolio QF",
+      "code": "CL433912",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433912"
+    },
+    "433917": {
+      "instrumentId": "433917",
+      "name": "Canada Life Canadian Growth Fund QF5",
+      "code": "CL433917",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433917"
+    },
+    "433920": {
+      "instrumentId": "433920",
+      "name": "Canada Life Canadian Core Bond Fund QF",
+      "code": "CL433920",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433920"
+    },
+    "433921": {
+      "instrumentId": "433921",
+      "name": "Canada Life Canadian Focused Small-Mid Cap Fund QF",
+      "code": "CL433921",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433921"
+    },
+    "433922": {
+      "instrumentId": "433922",
+      "name": "Canada Life Global Strategic Income Fund QF",
+      "code": "CL433922",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433922"
+    },
+    "433937": {
+      "instrumentId": "433937",
+      "name": "Canada Life Moderate Portfolio Fund QF",
+      "code": "CL433937",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433937"
+    },
+    "433948": {
+      "instrumentId": "433948",
+      "name": "Canada Life Global Equity Fund N",
+      "code": "CL433948",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433948"
+    },
+    "433949": {
+      "instrumentId": "433949",
+      "name": "Canada Life Money Market Fund QF",
+      "code": "CL433949",
+      "series": null,
+      "assetClass": "money_market",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433949"
+    },
+    "433951": {
+      "instrumentId": "433951",
+      "name": "Canada Life Diversified Fixed Income Portfolio W",
+      "code": "CL433951",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433951"
+    },
+    "433957": {
+      "instrumentId": "433957",
+      "name": "Canada Life Global High Yield Fixed Income Fund QF",
+      "code": "CL433957",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433957"
+    },
+    "433960": {
+      "instrumentId": "433960",
+      "name": "Canada Life Canadian Corporate Bond Fund QF",
+      "code": "CL433960",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433960"
+    },
+    "433961": {
+      "instrumentId": "433961",
+      "name": "Canada Life Global Equity Fund QF",
+      "code": "CL433961",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433961"
+    },
+    "433966": {
+      "instrumentId": "433966",
+      "name": "Canada Life Diversified Fixed Income Portfolio N",
+      "code": "CL433966",
+      "series": "N",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433966"
+    },
+    "433968": {
+      "instrumentId": "433968",
+      "name": "Canada Life Aggressive Portfolio QF5",
+      "code": "CL433968",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433968"
+    },
+    "433969": {
+      "instrumentId": "433969",
+      "name": "Canada Life Moderate Portfolio Fund QF5",
+      "code": "CL433969",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433969"
+    },
+    "433975": {
+      "instrumentId": "433975",
+      "name": "Canada Life Aggressive Portfolio QF",
+      "code": "CL433975",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433975"
+    },
+    "433976": {
+      "instrumentId": "433976",
+      "name": "Canada Life Global Equity Fund W5",
+      "code": "CL433976",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433976"
+    },
+    "433984": {
+      "instrumentId": "433984",
+      "name": "Canada Life Diversified Fixed Income Portfolio A",
+      "code": "CL433984",
+      "series": "A",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433984"
+    },
+    "433985": {
+      "instrumentId": "433985",
+      "name": "Canada Life Global Equity Fund A",
+      "code": "CL433985",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/433985"
+    },
+    "440605": {
+      "instrumentId": "440605",
+      "name": "Canada Life Global High Yield Fixed Income Fund F",
+      "code": "CL440605",
+      "series": "F",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/440605"
+    },
+    "448411": {
+      "instrumentId": "448411",
+      "name": "Canada Life Global Equity and Income Fund F",
+      "code": "CL448411",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448411"
+    },
+    "448412": {
+      "instrumentId": "448412",
+      "name": "Canada Life Global Equity and Income Fund F5",
+      "code": "CL448412",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448412"
+    },
+    "448415": {
+      "instrumentId": "448415",
+      "name": "Canada Life Global Equity and Income Fund T5",
+      "code": "CL448415",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448415"
+    },
+    "448418": {
+      "instrumentId": "448418",
+      "name": "Canada Life Global Equity and Income Fund T8",
+      "code": "CL448418",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448418"
+    },
+    "448419": {
+      "instrumentId": "448419",
+      "name": "Canada Life Global Equity and Income Fund F8",
+      "code": "CL448419",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448419"
+    },
+    "448423": {
+      "instrumentId": "448423",
+      "name": "Canada Life U.S. Dividend Fund F5",
+      "code": "CL448423",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448423"
+    },
+    "448424": {
+      "instrumentId": "448424",
+      "name": "Canada Life International Equity Fund QF5",
+      "code": "CL448424",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448424"
+    },
+    "448425": {
+      "instrumentId": "448425",
+      "name": "Canada Life Global Equity and Income Fund QF5",
+      "code": "CL448425",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448425"
+    },
+    "448426": {
+      "instrumentId": "448426",
+      "name": "Canada Life International Equity Fund QF",
+      "code": "CL448426",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448426"
+    },
+    "448427": {
+      "instrumentId": "448427",
+      "name": "Canada Life U.S. Dividend Fund T5",
+      "code": "CL448427",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448427"
+    },
+    "448428": {
+      "instrumentId": "448428",
+      "name": "Canada Life International Equity Fund U$",
+      "code": "CL448428",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448428"
+    },
+    "448429": {
+      "instrumentId": "448429",
+      "name": "Canada Life U.S. Dividend Fund F",
+      "code": "CL448429",
+      "series": "F",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448429"
+    },
+    "448430": {
+      "instrumentId": "448430",
+      "name": "Canada Life Global Equity and Income Fund W",
+      "code": "CL448430",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448430"
+    },
+    "448431": {
+      "instrumentId": "448431",
+      "name": "Canada Life Global Equity and Income Fund N",
+      "code": "CL448431",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448431"
+    },
+    "448432": {
+      "instrumentId": "448432",
+      "name": "Canada Life Global Equity and Income Fund QF",
+      "code": "CL448432",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448432"
+    },
+    "448433": {
+      "instrumentId": "448433",
+      "name": "Canada Life Global Equity and Income Fund W8",
+      "code": "CL448433",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448433"
+    },
+    "448434": {
+      "instrumentId": "448434",
+      "name": "Canada Life Global Equity and Income Fund A",
+      "code": "CL448434",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448434"
+    },
+    "448435": {
+      "instrumentId": "448435",
+      "name": "Canada Life Global Equity and Income Fund N5",
+      "code": "CL448435",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448435"
+    },
+    "448436": {
+      "instrumentId": "448436",
+      "name": "Canada Life U.S. Dividend Fund W",
+      "code": "CL448436",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448436"
+    },
+    "448437": {
+      "instrumentId": "448437",
+      "name": "Canada Life International Equity Fund A",
+      "code": "CL448437",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448437"
+    },
+    "448438": {
+      "instrumentId": "448438",
+      "name": "Canada Life Global Equity and Income Fund N8",
+      "code": "CL448438",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448438"
+    },
+    "448439": {
+      "instrumentId": "448439",
+      "name": "Canada Life Global Equity and Income Fund W5",
+      "code": "CL448439",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448439"
+    },
+    "448440": {
+      "instrumentId": "448440",
+      "name": "Canada Life U.S. Dividend Fund T8",
+      "code": "CL448440",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448440"
+    },
+    "448441": {
+      "instrumentId": "448441",
+      "name": "Canada Life U.S. Value Fund F5",
+      "code": "CL448441",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448441"
+    },
+    "448442": {
+      "instrumentId": "448442",
+      "name": "Canada Life International Equity Fund W U$",
+      "code": "CL448442",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448442"
+    },
+    "448443": {
+      "instrumentId": "448443",
+      "name": "Canada Life U.S. Value Fund T8",
+      "code": "CL448443",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448443"
+    },
+    "448444": {
+      "instrumentId": "448444",
+      "name": "Canada Life U.S. Dividend Fund QF",
+      "code": "CL448444",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448444"
+    },
+    "448445": {
+      "instrumentId": "448445",
+      "name": "Canada Life International Equity Fund N8",
+      "code": "CL448445",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448445"
+    },
+    "448446": {
+      "instrumentId": "448446",
+      "name": "Canada Life U.S. Dividend Fund W8",
+      "code": "CL448446",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448446"
+    },
+    "448447": {
+      "instrumentId": "448447",
+      "name": "Canada Life U.S. Value Fund W U$",
+      "code": "CL448447",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448447"
+    },
+    "448448": {
+      "instrumentId": "448448",
+      "name": "Canada Life U.S. Value Fund F",
+      "code": "CL448448",
+      "series": "F",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448448"
+    },
+    "448449": {
+      "instrumentId": "448449",
+      "name": "Canada Life U.S. Value Fund N U$",
+      "code": "CL448449",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448449"
+    },
+    "448450": {
+      "instrumentId": "448450",
+      "name": "Canada Life U.S. Dividend Fund A",
+      "code": "CL448450",
+      "series": "A",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448450"
+    },
+    "448451": {
+      "instrumentId": "448451",
+      "name": "Canada Life U.S. Value Fund W",
+      "code": "CL448451",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448451"
+    },
+    "448452": {
+      "instrumentId": "448452",
+      "name": "Canada Life International Equity Fund N U$",
+      "code": "CL448452",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448452"
+    },
+    "448453": {
+      "instrumentId": "448453",
+      "name": "Canada Life U.S. Value Fund W8",
+      "code": "CL448453",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448453"
+    },
+    "448454": {
+      "instrumentId": "448454",
+      "name": "Canada Life U.S. Dividend Fund N5",
+      "code": "CL448454",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448454"
+    },
+    "448455": {
+      "instrumentId": "448455",
+      "name": "Canada Life International Equity Fund N5",
+      "code": "CL448455",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448455"
+    },
+    "448456": {
+      "instrumentId": "448456",
+      "name": "Canada Life U.S. Dividend Fund QF5",
+      "code": "CL448456",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448456"
+    },
+    "448457": {
+      "instrumentId": "448457",
+      "name": "Canada Life International Equity Fund N",
+      "code": "CL448457",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448457"
+    },
+    "448458": {
+      "instrumentId": "448458",
+      "name": "Canada Life International Equity Fund F",
+      "code": "CL448458",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448458"
+    },
+    "448459": {
+      "instrumentId": "448459",
+      "name": "Canada Life International Equity Fund W5",
+      "code": "CL448459",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448459"
+    },
+    "448460": {
+      "instrumentId": "448460",
+      "name": "Canada Life International Equity Fund F5",
+      "code": "CL448460",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448460"
+    },
+    "448461": {
+      "instrumentId": "448461",
+      "name": "Canada Life U.S. Value Fund W5",
+      "code": "CL448461",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448461"
+    },
+    "448462": {
+      "instrumentId": "448462",
+      "name": "Canada Life U.S. Dividend Fund N8",
+      "code": "CL448462",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448462"
+    },
+    "448463": {
+      "instrumentId": "448463",
+      "name": "Canada Life U.S. Value Fund N",
+      "code": "CL448463",
+      "series": "N",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448463"
+    },
+    "448464": {
+      "instrumentId": "448464",
+      "name": "Canada Life U.S. Dividend Fund N",
+      "code": "CL448464",
+      "series": "N",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448464"
+    },
+    "448465": {
+      "instrumentId": "448465",
+      "name": "Canada Life International Equity Fund W8",
+      "code": "CL448465",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448465"
+    },
+    "448466": {
+      "instrumentId": "448466",
+      "name": "Canada Life International Equity Fund T8",
+      "code": "CL448466",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448466"
+    },
+    "448467": {
+      "instrumentId": "448467",
+      "name": "Canada Life U.S. Value Fund T5",
+      "code": "CL448467",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448467"
+    },
+    "448468": {
+      "instrumentId": "448468",
+      "name": "Canada Life U.S. Dividend Fund W5",
+      "code": "CL448468",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448468"
+    },
+    "448469": {
+      "instrumentId": "448469",
+      "name": "Canada Life International Equity Fund W",
+      "code": "CL448469",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448469"
+    },
+    "448470": {
+      "instrumentId": "448470",
+      "name": "Canada Life U.S. Value Fund N5",
+      "code": "CL448470",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448470"
+    },
+    "448471": {
+      "instrumentId": "448471",
+      "name": "Canada Life U.S. Value Fund U$",
+      "code": "CL448471",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448471"
+    },
+    "448472": {
+      "instrumentId": "448472",
+      "name": "Canada Life U.S. Value Fund QF",
+      "code": "CL448472",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448472"
+    },
+    "448473": {
+      "instrumentId": "448473",
+      "name": "Canada Life U.S. Value Fund N8",
+      "code": "CL448473",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448473"
+    },
+    "448474": {
+      "instrumentId": "448474",
+      "name": "Canada Life U.S. Value Fund A",
+      "code": "CL448474",
+      "series": "A",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448474"
+    },
+    "448475": {
+      "instrumentId": "448475",
+      "name": "Canada Life U.S. Value Fund QF5",
+      "code": "CL448475",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448475"
+    },
+    "448476": {
+      "instrumentId": "448476",
+      "name": "Canada Life International Equity Fund T5",
+      "code": "CL448476",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/448476"
+    },
+    "464632": {
+      "instrumentId": "464632",
+      "name": "Canada Life Advanced Portfolio QFW5",
+      "code": "CL464632",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464632"
+    },
+    "464633": {
+      "instrumentId": "464633",
+      "name": "Canada Life Advanced Portfolio QFW",
+      "code": "CL464633",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464633"
+    },
+    "464636": {
+      "instrumentId": "464636",
+      "name": "Canada Life Aggressive Portfolio QFW5",
+      "code": "CL464636",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464636"
+    },
+    "464637": {
+      "instrumentId": "464637",
+      "name": "Canada Life Balanced Portfolio QFW",
+      "code": "CL464637",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464637"
+    },
+    "464639": {
+      "instrumentId": "464639",
+      "name": "Canada Life Balanced Portfolio QFW5",
+      "code": "CL464639",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464639"
+    },
+    "464640": {
+      "instrumentId": "464640",
+      "name": "Canada Life Aggressive Portfolio QFW",
+      "code": "CL464640",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464640"
+    },
+    "464657": {
+      "instrumentId": "464657",
+      "name": "Canada Life U.S. Value Fund QFW5",
+      "code": "CL464657",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464657"
+    },
+    "464665": {
+      "instrumentId": "464665",
+      "name": "Canada Life U.S. Value Fund QFW",
+      "code": "CL464665",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464665"
+    },
+    "464686": {
+      "instrumentId": "464686",
+      "name": "Canada Life Global High Yield Fixed Income Fund QFW",
+      "code": "CL464686",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464686"
+    },
+    "464689": {
+      "instrumentId": "464689",
+      "name": "Canada Life Canadian Corporate Bond Fund QFW",
+      "code": "CL464689",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464689"
+    },
+    "464691": {
+      "instrumentId": "464691",
+      "name": "Canada Life U.S. Dividend Fund QFW5",
+      "code": "CL464691",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464691"
+    },
+    "464692": {
+      "instrumentId": "464692",
+      "name": "Canada Life Conservative Portfolio QFW",
+      "code": "CL464692",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464692"
+    },
+    "464697": {
+      "instrumentId": "464697",
+      "name": "Canada Life Canadian Core Plus Bond Fund QFW",
+      "code": "CL464697",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464697"
+    },
+    "464703": {
+      "instrumentId": "464703",
+      "name": "Canada Life U.S. Dividend Fund QFW",
+      "code": "CL464703",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464703"
+    },
+    "464713": {
+      "instrumentId": "464713",
+      "name": "Canada Life Canadian Core Bond Fund QFW",
+      "code": "CL464713",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464713"
+    },
+    "464714": {
+      "instrumentId": "464714",
+      "name": "Canada Life Canadian Growth Fund QFW5",
+      "code": "CL464714",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464714"
+    },
+    "464720": {
+      "instrumentId": "464720",
+      "name": "Canada Life Canadian Growth Fund QFW",
+      "code": "CL464720",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464720"
+    },
+    "464729": {
+      "instrumentId": "464729",
+      "name": "Canada Life Diversified Fixed Income Portfolio QFW",
+      "code": "CL464729",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464729"
+    },
+    "464737": {
+      "instrumentId": "464737",
+      "name": "Canada Life Money Market Fund QFW",
+      "code": "CL464737",
+      "series": null,
+      "assetClass": "money_market",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464737"
+    },
+    "464741": {
+      "instrumentId": "464741",
+      "name": "Canada Life Moderate Portfolio Fund QFW",
+      "code": "CL464741",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464741"
+    },
+    "464745": {
+      "instrumentId": "464745",
+      "name": "Canada Life Canadian Focused Small-Mid Cap Fund QFW",
+      "code": "CL464745",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464745"
+    },
+    "464750": {
+      "instrumentId": "464750",
+      "name": "Canada Life Moderate Portfolio Fund QFW5",
+      "code": "CL464750",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464750"
+    },
+    "464762": {
+      "instrumentId": "464762",
+      "name": "Canada Life Global All Cap Equity Fund T5",
+      "code": "CL464762",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464762"
+    },
+    "464780": {
+      "instrumentId": "464780",
+      "name": "Canada Life Global All Cap Equity Fund QF",
+      "code": "CL464780",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464780"
+    },
+    "464781": {
+      "instrumentId": "464781",
+      "name": "Canada Life Global All Cap Equity Fund T8",
+      "code": "CL464781",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464781"
+    },
+    "464782": {
+      "instrumentId": "464782",
+      "name": "Canada Life Global All Cap Equity Fund N5",
+      "code": "CL464782",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464782"
+    },
+    "464790": {
+      "instrumentId": "464790",
+      "name": "Canada Life Global All Cap Equity Fund N",
+      "code": "CL464790",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464790"
+    },
+    "464791": {
+      "instrumentId": "464791",
+      "name": "Canada Life Global All Cap Equity Fund N8",
+      "code": "CL464791",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464791"
+    },
+    "464795": {
+      "instrumentId": "464795",
+      "name": "Canada Life Global All Cap Equity Fund QFW5",
+      "code": "CL464795",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464795"
+    },
+    "464796": {
+      "instrumentId": "464796",
+      "name": "Canada Life Global All Cap Equity Fund A",
+      "code": "CL464796",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464796"
+    },
+    "464797": {
+      "instrumentId": "464797",
+      "name": "Canada Life Global All Cap Equity Fund QFW",
+      "code": "CL464797",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464797"
+    },
+    "464801": {
+      "instrumentId": "464801",
+      "name": "Canada Life Global Resources Fund QFW",
+      "code": "CL464801",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464801"
+    },
+    "464802": {
+      "instrumentId": "464802",
+      "name": "Canada Life Global All Cap Equity Fund W8",
+      "code": "CL464802",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464802"
+    },
+    "464804": {
+      "instrumentId": "464804",
+      "name": "Canada Life Global All Cap Equity Fund U$",
+      "code": "CL464804",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464804"
+    },
+    "464805": {
+      "instrumentId": "464805",
+      "name": "Canada Life Global All Cap Equity Fund W",
+      "code": "CL464805",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464805"
+    },
+    "464807": {
+      "instrumentId": "464807",
+      "name": "Canada Life Global All Cap Equity Fund W5",
+      "code": "CL464807",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464807"
+    },
+    "464808": {
+      "instrumentId": "464808",
+      "name": "Canada Life Global All Cap Equity Fund QF5",
+      "code": "CL464808",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464808"
+    },
+    "464810": {
+      "instrumentId": "464810",
+      "name": "Canada Life Global All Cap Equity Fund F8",
+      "code": "CL464810",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464810"
+    },
+    "464811": {
+      "instrumentId": "464811",
+      "name": "Canada Life Global All Cap Equity Fund W U$",
+      "code": "CL464811",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464811"
+    },
+    "464814": {
+      "instrumentId": "464814",
+      "name": "Canada Life Global All Cap Equity Fund F",
+      "code": "CL464814",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464814"
+    },
+    "464820": {
+      "instrumentId": "464820",
+      "name": "Canada Life Global All Cap Equity Fund F5",
+      "code": "CL464820",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464820"
+    },
+    "464822": {
+      "instrumentId": "464822",
+      "name": "Canada Life Global All Cap Equity Fund N U$",
+      "code": "CL464822",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464822"
+    },
+    "464825": {
+      "instrumentId": "464825",
+      "name": "Canada Life International Equity Fund QFW5",
+      "code": "CL464825",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464825"
+    },
+    "464833": {
+      "instrumentId": "464833",
+      "name": "Canada Life International Equity Fund QFW",
+      "code": "CL464833",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464833"
+    },
+    "464875": {
+      "instrumentId": "464875",
+      "name": "Canada Life Global Strategic Income Fund QFW",
+      "code": "CL464875",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464875"
+    },
+    "464882": {
+      "instrumentId": "464882",
+      "name": "Canada Life Global Strategic Income Fund QFW5",
+      "code": "CL464882",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464882"
+    },
+    "464883": {
+      "instrumentId": "464883",
+      "name": "Canada Life Global Equity and Income Fund QFW5",
+      "code": "CL464883",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464883"
+    },
+    "464884": {
+      "instrumentId": "464884",
+      "name": "Canada Life Global Equity and Income Fund QFW",
+      "code": "CL464884",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464884"
+    },
+    "464891": {
+      "instrumentId": "464891",
+      "name": "Canada Life Global Equity Fund QFW5",
+      "code": "CL464891",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464891"
+    },
+    "464901": {
+      "instrumentId": "464901",
+      "name": "Canada Life Global Equity Fund QFW",
+      "code": "CL464901",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/464901"
+    },
+    "471970": {
+      "instrumentId": "471970",
+      "name": "Canada Life Global Core Plus Bond Fund - A†",
+      "code": "CL471970",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471970"
+    },
+    "471973": {
+      "instrumentId": "471973",
+      "name": "Canada Life Global Core Plus Bond Fund - F†",
+      "code": "CL471973",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471973"
+    },
+    "471975": {
+      "instrumentId": "471975",
+      "name": "Canada Life Global Core Plus Bond Fund - I",
+      "code": "CL471975",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471975"
+    },
+    "471976": {
+      "instrumentId": "471976",
+      "name": "Canada Life Global Core Plus Bond Fund - W†",
+      "code": "CL471976",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471976"
+    },
+    "471977": {
+      "instrumentId": "471977",
+      "name": "Canada Life Emerging Markets Large Cap Equity Fund - F",
+      "code": "CL471977",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471977"
+    },
+    "471983": {
+      "instrumentId": "471983",
+      "name": "Canada Life Global Tactical Fund - I",
+      "code": "CL471983",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471983"
+    },
+    "471985": {
+      "instrumentId": "471985",
+      "name": "Canada Life Emerging Markets Large Cap Equity Fund - I",
+      "code": "CL471985",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471985"
+    },
+    "471986": {
+      "instrumentId": "471986",
+      "name": "Canada Life International Value Fund - A",
+      "code": "CL471986",
+      "series": "A",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471986"
+    },
+    "471987": {
+      "instrumentId": "471987",
+      "name": "Canada Life Canadian Fundamental Equity Fund - I",
+      "code": "CL471987",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471987"
+    },
+    "471989": {
+      "instrumentId": "471989",
+      "name": "Canada Life Global Multi-Sector Bond Fund - W",
+      "code": "CL471989",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471989"
+    },
+    "471990": {
+      "instrumentId": "471990",
+      "name": "Canada Life International Value Fund - F",
+      "code": "CL471990",
+      "series": "F",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471990"
+    },
+    "471991": {
+      "instrumentId": "471991",
+      "name": "Canada Life Canadian Fundamental Equity Fund - A",
+      "code": "CL471991",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471991"
+    },
+    "471993": {
+      "instrumentId": "471993",
+      "name": "Canada Life Global Multi-Sector Bond Fund - I",
+      "code": "CL471993",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471993"
+    },
+    "471994": {
+      "instrumentId": "471994",
+      "name": "Canada Life Canadian Fundamental Equity Fund - W",
+      "code": "CL471994",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471994"
+    },
+    "471999": {
+      "instrumentId": "471999",
+      "name": "Canada Life Emerging Markets Large Cap Equity Fund - A",
+      "code": "CL471999",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/471999"
+    },
+    "472003": {
+      "instrumentId": "472003",
+      "name": "Canada Life Global Multi-Sector Bond Fund - F",
+      "code": "CL472003",
+      "series": "F",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/472003"
+    },
+    "472004": {
+      "instrumentId": "472004",
+      "name": "Canada Life Canadian Fundamental Equity Fund - F",
+      "code": "CL472004",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/472004"
+    },
+    "472006": {
+      "instrumentId": "472006",
+      "name": "Canada Life Emerging Markets Large Cap Equity Fund - W",
+      "code": "CL472006",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/472006"
+    },
+    "472007": {
+      "instrumentId": "472007",
+      "name": "Canada Life International Value Fund - W",
+      "code": "CL472007",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/472007"
+    },
+    "472012": {
+      "instrumentId": "472012",
+      "name": "Canada Life Global Multi-Sector Bond Fund - A",
+      "code": "CL472012",
+      "series": "A",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/472012"
+    },
+    "472013": {
+      "instrumentId": "472013",
+      "name": "Canada Life International Value Fund - I",
+      "code": "CL472013",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/472013"
+    },
+    "480097": {
+      "instrumentId": "480097",
+      "name": "Canada Life Global Growth Equity Fund A",
+      "code": "CL480097",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/480097"
+    },
+    "481341": {
+      "instrumentId": "481341",
+      "name": "Canada Life Global Core Plus Bond Fund - QF†",
+      "code": "CL481341",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481341"
+    },
+    "481342": {
+      "instrumentId": "481342",
+      "name": "Canada Life Global Core Plus Bond Fund - QFW†",
+      "code": "CL481342",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481342"
+    },
+    "481343": {
+      "instrumentId": "481343",
+      "name": "Canada Life Global Core Plus Bond Fund - N†",
+      "code": "CL481343",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481343"
+    },
+    "481344": {
+      "instrumentId": "481344",
+      "name": "Canada Life Global Multi-Sector Bond Fund - QF",
+      "code": "CL481344",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481344"
+    },
+    "481345": {
+      "instrumentId": "481345",
+      "name": "Canada Life Global Multi-Sector Bond Fund - QFW",
+      "code": "CL481345",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481345"
+    },
+    "481346": {
+      "instrumentId": "481346",
+      "name": "Canada Life Global Multi-Sector Bond Fund - N",
+      "code": "CL481346",
+      "series": "N",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481346"
+    },
+    "481348": {
+      "instrumentId": "481348",
+      "name": "Canada Life Canadian Fundamental Equity Fund - QF",
+      "code": "CL481348",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481348"
+    },
+    "481349": {
+      "instrumentId": "481349",
+      "name": "Canada Life Canadian Fundamental Equity Fund - QFW",
+      "code": "CL481349",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481349"
+    },
+    "481350": {
+      "instrumentId": "481350",
+      "name": "Canada Life Canadian Fundamental Equity Fund - N",
+      "code": "CL481350",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481350"
+    },
+    "481354": {
+      "instrumentId": "481354",
+      "name": "Canada Life International Value Fund - QF",
+      "code": "CL481354",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481354"
+    },
+    "481355": {
+      "instrumentId": "481355",
+      "name": "Canada Life International Value Fund - QFW",
+      "code": "CL481355",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481355"
+    },
+    "481356": {
+      "instrumentId": "481356",
+      "name": "Canada Life International Value Fund - N",
+      "code": "CL481356",
+      "series": "N",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481356"
+    },
+    "481360": {
+      "instrumentId": "481360",
+      "name": "Canada Life Emerging Markets Large Cap Equity Fund - QF",
+      "code": "CL481360",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481360"
+    },
+    "481361": {
+      "instrumentId": "481361",
+      "name": "Canada Life Emerging Markets Large Cap Equity Fund - QFW",
+      "code": "CL481361",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481361"
+    },
+    "481362": {
+      "instrumentId": "481362",
+      "name": "Canada Life Emerging Markets Large Cap Equity Fund - N",
+      "code": "CL481362",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/481362"
+    },
+    "491647": {
+      "instrumentId": "491647",
+      "name": "Canada Life Canadian Value Fund T5",
+      "code": "CL491647",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491647"
+    },
+    "491648": {
+      "instrumentId": "491648",
+      "name": "Canada Life Canadian Value Fund W5",
+      "code": "CL491648",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491648"
+    },
+    "491649": {
+      "instrumentId": "491649",
+      "name": "Canada Life Canadian Value Fund T8",
+      "code": "CL491649",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491649"
+    },
+    "491650": {
+      "instrumentId": "491650",
+      "name": "Canada Life Canadian Value Fund W8",
+      "code": "CL491650",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491650"
+    },
+    "491670": {
+      "instrumentId": "491670",
+      "name": "Canada Life Canadian Value Fund F",
+      "code": "CL491670",
+      "series": "F",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491670"
+    },
+    "491672": {
+      "instrumentId": "491672",
+      "name": "Canada Life Canadian Value Fund F5",
+      "code": "CL491672",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491672"
+    },
+    "491674": {
+      "instrumentId": "491674",
+      "name": "Canada Life Canadian Value Fund F8",
+      "code": "CL491674",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491674"
+    },
+    "491676": {
+      "instrumentId": "491676",
+      "name": "Canada Life Canadian Value Fund N",
+      "code": "CL491676",
+      "series": "N",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491676"
+    },
+    "491677": {
+      "instrumentId": "491677",
+      "name": "Canada Life Canadian Value Fund N5",
+      "code": "CL491677",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491677"
+    },
+    "491678": {
+      "instrumentId": "491678",
+      "name": "Canada Life Canadian Value Fund N8",
+      "code": "CL491678",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491678"
+    },
+    "491679": {
+      "instrumentId": "491679",
+      "name": "Canada Life Canadian Value Fund A",
+      "code": "CL491679",
+      "series": "A",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491679"
+    },
+    "491680": {
+      "instrumentId": "491680",
+      "name": "Canada Life Canadian Value Fund W",
+      "code": "CL491680",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491680"
+    },
+    "491681": {
+      "instrumentId": "491681",
+      "name": "Canada Life Canadian Value Fund QF",
+      "code": "CL491681",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491681"
+    },
+    "491682": {
+      "instrumentId": "491682",
+      "name": "Canada Life Canadian Value Fund QFW",
+      "code": "CL491682",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491682"
+    },
+    "491683": {
+      "instrumentId": "491683",
+      "name": "Canada Life Canadian Value Fund QF5",
+      "code": "CL491683",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491683"
+    },
+    "491684": {
+      "instrumentId": "491684",
+      "name": "Canada Life Canadian Value Fund QFW5",
+      "code": "CL491684",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/491684"
+    },
+    "493824": {
+      "instrumentId": "493824",
+      "name": "Canada Life Global Growth Equity Fund W",
+      "code": "CL493824",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/493824"
+    },
+    "493841": {
+      "instrumentId": "493841",
+      "name": "Canada Life Global Growth Equity Fund T5",
+      "code": "CL493841",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/493841"
+    },
+    "493843": {
+      "instrumentId": "493843",
+      "name": "Canada Life Global Growth Equity Fund W5",
+      "code": "CL493843",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/493843"
+    },
+    "493844": {
+      "instrumentId": "493844",
+      "name": "Canada Life Global Growth Equity Fund F",
+      "code": "CL493844",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/493844"
+    },
+    "493848": {
+      "instrumentId": "493848",
+      "name": "Canada Life Global Growth Equity Fund F5",
+      "code": "CL493848",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/493848"
+    },
+    "493850": {
+      "instrumentId": "493850",
+      "name": "Canada Life Global Growth Equity Fund N",
+      "code": "CL493850",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/493850"
+    },
+    "493852": {
+      "instrumentId": "493852",
+      "name": "Canada Life Global Growth Equity Fund N5",
+      "code": "CL493852",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/493852"
+    },
+    "493853": {
+      "instrumentId": "493853",
+      "name": "Canada Life Global Growth Equity Fund QF",
+      "code": "CL493853",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/493853"
+    },
+    "493854": {
+      "instrumentId": "493854",
+      "name": "Canada Life Global Growth Equity Fund QFW",
+      "code": "CL493854",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/493854"
+    },
+    "493855": {
+      "instrumentId": "493855",
+      "name": "Canada Life Global Growth Equity Fund QF5",
+      "code": "CL493855",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/493855"
+    },
+    "493856": {
+      "instrumentId": "493856",
+      "name": "Canada Life Global Growth Equity Fund QFW5",
+      "code": "CL493856",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/493856"
+    },
+    "494041": {
+      "instrumentId": "494041",
+      "name": "Canada Life Unconstrained Fixed Income Fund A†",
+      "code": "CL494041",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494041"
+    },
+    "494042": {
+      "instrumentId": "494042",
+      "name": "Canada Life Unconstrained Fixed Income Fund W†",
+      "code": "CL494042",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494042"
+    },
+    "494043": {
+      "instrumentId": "494043",
+      "name": "Canada Life Unconstrained Fixed Income Fund F†",
+      "code": "CL494043",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494043"
+    },
+    "494045": {
+      "instrumentId": "494045",
+      "name": "Canada Life Unconstrained Fixed Income Fund N†",
+      "code": "CL494045",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494045"
+    },
+    "494046": {
+      "instrumentId": "494046",
+      "name": "Canada Life Unconstrained Fixed Income Fund QF†",
+      "code": "CL494046",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494046"
+    },
+    "494047": {
+      "instrumentId": "494047",
+      "name": "Canada Life Unconstrained Fixed Income Fund QFW†",
+      "code": "CL494047",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494047"
+    },
+    "494055": {
+      "instrumentId": "494055",
+      "name": "Canada Life Canadian Fixed Income Balanced Fund A",
+      "code": "CL494055",
+      "series": "A",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494055"
+    },
+    "494056": {
+      "instrumentId": "494056",
+      "name": "Canada Life Canadian Fixed Income Balanced Fund W",
+      "code": "CL494056",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494056"
+    },
+    "494057": {
+      "instrumentId": "494057",
+      "name": "Canada Life Canadian Fixed Income Balanced Fund T5",
+      "code": "CL494057",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494057"
+    },
+    "494058": {
+      "instrumentId": "494058",
+      "name": "Canada Life Canadian Fixed Income Balanced Fund W5",
+      "code": "CL494058",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494058"
+    },
+    "494059": {
+      "instrumentId": "494059",
+      "name": "Canada Life Canadian Fixed Income Balanced Fund F",
+      "code": "CL494059",
+      "series": "F",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494059"
+    },
+    "494061": {
+      "instrumentId": "494061",
+      "name": "Canada Life Canadian Fixed Income Balanced Fund F5",
+      "code": "CL494061",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494061"
+    },
+    "494063": {
+      "instrumentId": "494063",
+      "name": "Canada Life Canadian Fixed Income Balanced Fund N",
+      "code": "CL494063",
+      "series": "N",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494063"
+    },
+    "494064": {
+      "instrumentId": "494064",
+      "name": "Canada Life Canadian Fixed Income Balanced Fund N5",
+      "code": "CL494064",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494064"
+    },
+    "494065": {
+      "instrumentId": "494065",
+      "name": "Canada Life Canadian Fixed Income Balanced Fund QF",
+      "code": "CL494065",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494065"
+    },
+    "494066": {
+      "instrumentId": "494066",
+      "name": "Canada Life Canadian Fixed Income Balanced Fund QFW",
+      "code": "CL494066",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494066"
+    },
+    "494067": {
+      "instrumentId": "494067",
+      "name": "Canada Life Canadian Fixed Income Balanced Fund QF5",
+      "code": "CL494067",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494067"
+    },
+    "494068": {
+      "instrumentId": "494068",
+      "name": "Canada Life Canadian Fixed Income Balanced Fund QFW5",
+      "code": "CL494068",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494068"
+    },
+    "494166": {
+      "instrumentId": "494166",
+      "name": "Canada Life Global Small-Mid Cap Equity Fund A",
+      "code": "CL494166",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494166"
+    },
+    "494167": {
+      "instrumentId": "494167",
+      "name": "Canada Life Global Small-Mid Cap Equity Fund W",
+      "code": "CL494167",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494167"
+    },
+    "494168": {
+      "instrumentId": "494168",
+      "name": "Canada Life Global Small-Mid Cap Equity Fund F",
+      "code": "CL494168",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494168"
+    },
+    "494172": {
+      "instrumentId": "494172",
+      "name": "Canada Life Global Small-Mid Cap Equity Fund F5",
+      "code": "CL494172",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494172"
+    },
+    "494174": {
+      "instrumentId": "494174",
+      "name": "Canada Life Global Small-Mid Cap Equity Fund N",
+      "code": "CL494174",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494174"
+    },
+    "494175": {
+      "instrumentId": "494175",
+      "name": "Canada Life Global Small-Mid Cap Equity Fund N5",
+      "code": "CL494175",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494175"
+    },
+    "494176": {
+      "instrumentId": "494176",
+      "name": "Canada Life Global Small-Mid Cap Equity Fund QF",
+      "code": "CL494176",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494176"
+    },
+    "494178": {
+      "instrumentId": "494178",
+      "name": "Canada Life Global Small-Mid Cap Equity Fund QFW",
+      "code": "CL494178",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494178"
+    },
+    "494179": {
+      "instrumentId": "494179",
+      "name": "Canada Life Global Small-Mid Cap Equity Fund QF5",
+      "code": "CL494179",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494179"
+    },
+    "494180": {
+      "instrumentId": "494180",
+      "name": "Canada Life Global Small-Mid Cap Equity Fund QFW5",
+      "code": "CL494180",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494180"
+    },
+    "494698": {
+      "instrumentId": "494698",
+      "name": "Canada Life Global Small-Mid Cap Equity Fund W5",
+      "code": "CL494698",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494698"
+    },
+    "494699": {
+      "instrumentId": "494699",
+      "name": "Canada Life Global Small-Mid Cap Equity Fund T5",
+      "code": "CL494699",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/494699"
+    },
+    "652998": {
+      "instrumentId": "652998",
+      "name": "Canada Life Risk-Managed Balanced Portfolio F",
+      "code": "CL652998",
+      "series": "F",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/652998"
+    },
+    "653000": {
+      "instrumentId": "653000",
+      "name": "Canada Life Risk-Managed Balanced Portfolio N",
+      "code": "CL653000",
+      "series": "N",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653000"
+    },
+    "653001": {
+      "instrumentId": "653001",
+      "name": "Canada Life Risk-Managed Balanced Portfolio A",
+      "code": "CL653001",
+      "series": "A",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653001"
+    },
+    "653002": {
+      "instrumentId": "653002",
+      "name": "Canada Life Risk-Managed Balanced Portfolio W",
+      "code": "CL653002",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653002"
+    },
+    "653003": {
+      "instrumentId": "653003",
+      "name": "Canada Life Risk-Managed Balanced Portfolio QF",
+      "code": "CL653003",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653003"
+    },
+    "653004": {
+      "instrumentId": "653004",
+      "name": "Canada Life Risk-Managed Balanced Portfolio QFW",
+      "code": "CL653004",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653004"
+    },
+    "653005": {
+      "instrumentId": "653005",
+      "name": "Canada Life Risk-Managed Conservative Income Portfolio F",
+      "code": "CL653005",
+      "series": "F",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653005"
+    },
+    "653007": {
+      "instrumentId": "653007",
+      "name": "Canada Life Risk-Managed Conservative Income Portfolio N",
+      "code": "CL653007",
+      "series": "N",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653007"
+    },
+    "653008": {
+      "instrumentId": "653008",
+      "name": "Canada Life Risk-Managed Conservative Income Portfolio A",
+      "code": "CL653008",
+      "series": "A",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653008"
+    },
+    "653009": {
+      "instrumentId": "653009",
+      "name": "Canada Life Risk-Managed Conservative Income Portfolio W",
+      "code": "CL653009",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653009"
+    },
+    "653010": {
+      "instrumentId": "653010",
+      "name": "Canada Life Risk-Managed Conservative Income Portfolio QF",
+      "code": "CL653010",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653010"
+    },
+    "653011": {
+      "instrumentId": "653011",
+      "name": "Canada Life Risk-Managed Conservative Income Portfolio QFW",
+      "code": "CL653011",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653011"
+    },
+    "653012": {
+      "instrumentId": "653012",
+      "name": "Canada Life Risk-Managed Growth Portfolio F",
+      "code": "CL653012",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653012"
+    },
+    "653014": {
+      "instrumentId": "653014",
+      "name": "Canada Life Risk-Managed Growth Portfolio N",
+      "code": "CL653014",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653014"
+    },
+    "653015": {
+      "instrumentId": "653015",
+      "name": "Canada Life Risk-Managed Growth Portfolio A",
+      "code": "CL653015",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653015"
+    },
+    "653016": {
+      "instrumentId": "653016",
+      "name": "Canada Life Risk-Managed Growth Portfolio W",
+      "code": "CL653016",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653016"
+    },
+    "653017": {
+      "instrumentId": "653017",
+      "name": "Canada Life Risk-Managed Growth Portfolio QF",
+      "code": "CL653017",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653017"
+    },
+    "653018": {
+      "instrumentId": "653018",
+      "name": "Canada Life Risk-Managed Growth Portfolio QFW",
+      "code": "CL653018",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/653018"
+    },
+    "672440": {
+      "instrumentId": "672440",
+      "name": "Canada Life U.S. All Cap Growth Fund A",
+      "code": "CL672440",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672440"
+    },
+    "672441": {
+      "instrumentId": "672441",
+      "name": "Canada Life U.S. All Cap Growth Fund F",
+      "code": "CL672441",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672441"
+    },
+    "672442": {
+      "instrumentId": "672442",
+      "name": "Canada Life U.S. All Cap Growth Fund W",
+      "code": "CL672442",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672442"
+    },
+    "672443": {
+      "instrumentId": "672443",
+      "name": "Canada Life U.S. All Cap Growth Fund N",
+      "code": "CL672443",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672443"
+    },
+    "672444": {
+      "instrumentId": "672444",
+      "name": "Canada Life U.S. All Cap Growth Fund QF",
+      "code": "CL672444",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672444"
+    },
+    "672445": {
+      "instrumentId": "672445",
+      "name": "Canada Life U.S. All Cap Growth Fund QFW",
+      "code": "CL672445",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672445"
+    },
+    "672447": {
+      "instrumentId": "672447",
+      "name": "Canada Life U.S. All Cap Growth Fund I",
+      "code": "CL672447",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672447"
+    },
+    "672508": {
+      "instrumentId": "672508",
+      "name": "Canada Life Floating Rate Income Fund - A",
+      "code": "CL672508",
+      "series": "A",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672508"
+    },
+    "672510": {
+      "instrumentId": "672510",
+      "name": "Canada Life Floating Rate Income Fund - F",
+      "code": "CL672510",
+      "series": "F",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672510"
+    },
+    "672511": {
+      "instrumentId": "672511",
+      "name": "Canada Life Floating Rate Income Fund - W",
+      "code": "CL672511",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672511"
+    },
+    "672513": {
+      "instrumentId": "672513",
+      "name": "Canada Life Floating Rate Income Fund - N",
+      "code": "CL672513",
+      "series": "N",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672513"
+    },
+    "672515": {
+      "instrumentId": "672515",
+      "name": "Canada Life Floating Rate Income Fund - QF",
+      "code": "CL672515",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672515"
+    },
+    "672516": {
+      "instrumentId": "672516",
+      "name": "Canada Life Floating Rate Income Fund - QFW",
+      "code": "CL672516",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672516"
+    },
+    "672520": {
+      "instrumentId": "672520",
+      "name": "Canada Life Global Balanced Fund - A",
+      "code": "CL672520",
+      "series": "A",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672520"
+    },
+    "672521": {
+      "instrumentId": "672521",
+      "name": "Canada Life Global Balanced Fund - T5",
+      "code": "CL672521",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672521"
+    },
+    "672522": {
+      "instrumentId": "672522",
+      "name": "Canada Life Global Balanced Fund - F",
+      "code": "CL672522",
+      "series": "F",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672522"
+    },
+    "672523": {
+      "instrumentId": "672523",
+      "name": "Canada Life Global Balanced Fund - F5",
+      "code": "CL672523",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672523"
+    },
+    "672524": {
+      "instrumentId": "672524",
+      "name": "Canada Life Global Balanced Fund - W",
+      "code": "CL672524",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672524"
+    },
+    "672525": {
+      "instrumentId": "672525",
+      "name": "Canada Life Global Balanced Fund - W5",
+      "code": "CL672525",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672525"
+    },
+    "672526": {
+      "instrumentId": "672526",
+      "name": "Canada Life Global Balanced Fund - N",
+      "code": "CL672526",
+      "series": "N",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672526"
+    },
+    "672527": {
+      "instrumentId": "672527",
+      "name": "Canada Life Global Balanced Fund - N5",
+      "code": "CL672527",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672527"
+    },
+    "672528": {
+      "instrumentId": "672528",
+      "name": "Canada Life Global Balanced Fund - QF",
+      "code": "CL672528",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672528"
+    },
+    "672529": {
+      "instrumentId": "672529",
+      "name": "Canada Life Global Balanced Fund - QF5",
+      "code": "CL672529",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672529"
+    },
+    "672530": {
+      "instrumentId": "672530",
+      "name": "Canada Life Global Balanced Fund - QFW",
+      "code": "CL672530",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672530"
+    },
+    "672531": {
+      "instrumentId": "672531",
+      "name": "Canada Life Global Balanced Fund - QFW5",
+      "code": "CL672531",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672531"
+    },
+    "672567": {
+      "instrumentId": "672567",
+      "name": "Canada Life Strategic Income Fund - A",
+      "code": "CL672567",
+      "series": "A",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672567"
+    },
+    "672569": {
+      "instrumentId": "672569",
+      "name": "Canada Life Strategic Income Fund - T5",
+      "code": "CL672569",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672569"
+    },
+    "672571": {
+      "instrumentId": "672571",
+      "name": "Canada Life Strategic Income Fund - T8",
+      "code": "CL672571",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672571"
+    },
+    "672573": {
+      "instrumentId": "672573",
+      "name": "Canada Life Strategic Income Fund - F",
+      "code": "CL672573",
+      "series": "F",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672573"
+    },
+    "672575": {
+      "instrumentId": "672575",
+      "name": "Canada Life Strategic Income Fund - F5",
+      "code": "CL672575",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672575"
+    },
+    "672577": {
+      "instrumentId": "672577",
+      "name": "Canada Life Strategic Income Fund - F8",
+      "code": "CL672577",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672577"
+    },
+    "672579": {
+      "instrumentId": "672579",
+      "name": "Canada Life Strategic Income Fund - W",
+      "code": "CL672579",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672579"
+    },
+    "672580": {
+      "instrumentId": "672580",
+      "name": "Canada Life Strategic Income Fund - W5",
+      "code": "CL672580",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672580"
+    },
+    "672582": {
+      "instrumentId": "672582",
+      "name": "Canada Life Strategic Income Fund - W8",
+      "code": "CL672582",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672582"
+    },
+    "672583": {
+      "instrumentId": "672583",
+      "name": "Canada Life Strategic Income Fund - N",
+      "code": "CL672583",
+      "series": "N",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672583"
+    },
+    "672584": {
+      "instrumentId": "672584",
+      "name": "Canada Life Strategic Income Fund - N5",
+      "code": "CL672584",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672584"
+    },
+    "672585": {
+      "instrumentId": "672585",
+      "name": "Canada Life Strategic Income Fund - N8",
+      "code": "CL672585",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672585"
+    },
+    "672586": {
+      "instrumentId": "672586",
+      "name": "Canada Life Strategic Income Fund - QF",
+      "code": "CL672586",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672586"
+    },
+    "672587": {
+      "instrumentId": "672587",
+      "name": "Canada Life Strategic Income Fund - QF5",
+      "code": "CL672587",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672587"
+    },
+    "672588": {
+      "instrumentId": "672588",
+      "name": "Canada Life Strategic Income Fund - QFW",
+      "code": "CL672588",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672588"
+    },
+    "672589": {
+      "instrumentId": "672589",
+      "name": "Canada Life Strategic Income Fund - QFW5",
+      "code": "CL672589",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672589"
+    },
+    "672626": {
+      "instrumentId": "672626",
+      "name": "Canada Life Canadian Dividend Fund - A",
+      "code": "CL672626",
+      "series": "A",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672626"
+    },
+    "672627": {
+      "instrumentId": "672627",
+      "name": "Canada Life Canadian Dividend Fund - T5",
+      "code": "CL672627",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672627"
+    },
+    "672628": {
+      "instrumentId": "672628",
+      "name": "Canada Life Canadian Dividend Fund - T8",
+      "code": "CL672628",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672628"
+    },
+    "672629": {
+      "instrumentId": "672629",
+      "name": "Canada Life Canadian Dividend Fund - F",
+      "code": "CL672629",
+      "series": "F",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672629"
+    },
+    "672630": {
+      "instrumentId": "672630",
+      "name": "Canada Life Canadian Dividend Fund - F5",
+      "code": "CL672630",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672630"
+    },
+    "672631": {
+      "instrumentId": "672631",
+      "name": "Canada Life Canadian Dividend Fund - W",
+      "code": "CL672631",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672631"
+    },
+    "672632": {
+      "instrumentId": "672632",
+      "name": "Canada Life Canadian Dividend Fund - W5",
+      "code": "CL672632",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672632"
+    },
+    "672633": {
+      "instrumentId": "672633",
+      "name": "Canada Life Canadian Dividend Fund - W8",
+      "code": "CL672633",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672633"
+    },
+    "672634": {
+      "instrumentId": "672634",
+      "name": "Canada Life Canadian Dividend Fund - N",
+      "code": "CL672634",
+      "series": "N",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672634"
+    },
+    "672635": {
+      "instrumentId": "672635",
+      "name": "Canada Life Canadian Dividend Fund - N5",
+      "code": "CL672635",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672635"
+    },
+    "672636": {
+      "instrumentId": "672636",
+      "name": "Canada Life Canadian Dividend Fund - QF",
+      "code": "CL672636",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672636"
+    },
+    "672638": {
+      "instrumentId": "672638",
+      "name": "Canada Life Canadian Dividend Fund - QF5",
+      "code": "CL672638",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672638"
+    },
+    "672639": {
+      "instrumentId": "672639",
+      "name": "Canada Life Canadian Dividend Fund - QFW",
+      "code": "CL672639",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672639"
+    },
+    "672641": {
+      "instrumentId": "672641",
+      "name": "Canada Life Canadian Dividend Fund - QFW5",
+      "code": "CL672641",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672641"
+    },
+    "672669": {
+      "instrumentId": "672669",
+      "name": "Canada Life Foreign Equity Fund - A",
+      "code": "CL672669",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672669"
+    },
+    "672670": {
+      "instrumentId": "672670",
+      "name": "Canada Life Foreign Equity Fund - T5",
+      "code": "CL672670",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672670"
+    },
+    "672671": {
+      "instrumentId": "672671",
+      "name": "Canada Life Foreign Equity Fund - F",
+      "code": "CL672671",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672671"
+    },
+    "672672": {
+      "instrumentId": "672672",
+      "name": "Canada Life Foreign Equity Fund - F5",
+      "code": "CL672672",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672672"
+    },
+    "672673": {
+      "instrumentId": "672673",
+      "name": "Canada Life Foreign Equity Fund - W",
+      "code": "CL672673",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672673"
+    },
+    "672674": {
+      "instrumentId": "672674",
+      "name": "Canada Life Foreign Equity Fund - W5",
+      "code": "CL672674",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672674"
+    },
+    "672675": {
+      "instrumentId": "672675",
+      "name": "Canada Life Foreign Equity Fund - N",
+      "code": "CL672675",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672675"
+    },
+    "672676": {
+      "instrumentId": "672676",
+      "name": "Canada Life Foreign Equity Fund - N5",
+      "code": "CL672676",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672676"
+    },
+    "672677": {
+      "instrumentId": "672677",
+      "name": "Canada Life Foreign Equity Fund - QF",
+      "code": "CL672677",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672677"
+    },
+    "672678": {
+      "instrumentId": "672678",
+      "name": "Canada Life Foreign Equity Fund - QF5",
+      "code": "CL672678",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672678"
+    },
+    "672801": {
+      "instrumentId": "672801",
+      "name": "Canada Life Foreign Equity Fund - QFW",
+      "code": "CL672801",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672801"
+    },
+    "672802": {
+      "instrumentId": "672802",
+      "name": "Canada Life Foreign Equity Fund - QFW5",
+      "code": "CL672802",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/672802"
+    },
+    "693055": {
+      "instrumentId": "693055",
+      "name": "Canada Life Sustainable Conservative Portfolio - A",
+      "code": "CL693055",
+      "series": "A",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693055"
+    },
+    "693056": {
+      "instrumentId": "693056",
+      "name": "Canada Life Sustainable Conservative Portfolio - W",
+      "code": "CL693056",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693056"
+    },
+    "693057": {
+      "instrumentId": "693057",
+      "name": "Canada Life Sustainable Conservative Portfolio - T5",
+      "code": "CL693057",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693057"
+    },
+    "693058": {
+      "instrumentId": "693058",
+      "name": "Canada Life Sustainable Conservative Portfolio - W5",
+      "code": "CL693058",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693058"
+    },
+    "693059": {
+      "instrumentId": "693059",
+      "name": "Canada Life Sustainable Conservative Portfolio - F",
+      "code": "CL693059",
+      "series": "F",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693059"
+    },
+    "693061": {
+      "instrumentId": "693061",
+      "name": "Canada Life Sustainable Conservative Portfolio - F5",
+      "code": "CL693061",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693061"
+    },
+    "693063": {
+      "instrumentId": "693063",
+      "name": "Canada Life Sustainable Conservative Portfolio - N",
+      "code": "CL693063",
+      "series": "N",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693063"
+    },
+    "693064": {
+      "instrumentId": "693064",
+      "name": "Canada Life Sustainable Conservative Portfolio - N5",
+      "code": "CL693064",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693064"
+    },
+    "693065": {
+      "instrumentId": "693065",
+      "name": "Canada Life Sustainable Conservative Portfolio - QF",
+      "code": "CL693065",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693065"
+    },
+    "693066": {
+      "instrumentId": "693066",
+      "name": "Canada Life Sustainable Conservative Portfolio - QFW",
+      "code": "CL693066",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693066"
+    },
+    "693067": {
+      "instrumentId": "693067",
+      "name": "Canada Life Sustainable Conservative Portfolio - QF5",
+      "code": "CL693067",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693067"
+    },
+    "693068": {
+      "instrumentId": "693068",
+      "name": "Canada Life Sustainable Conservative Portfolio - QFW5",
+      "code": "CL693068",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693068"
+    },
+    "693069": {
+      "instrumentId": "693069",
+      "name": "Canada Life Sustainable Balanced Portfolio - A",
+      "code": "CL693069",
+      "series": "A",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693069"
+    },
+    "693070": {
+      "instrumentId": "693070",
+      "name": "Canada Life Sustainable Balanced Portfolio - W",
+      "code": "CL693070",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693070"
+    },
+    "693071": {
+      "instrumentId": "693071",
+      "name": "Canada Life Sustainable Balanced Portfolio - T5",
+      "code": "CL693071",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693071"
+    },
+    "693072": {
+      "instrumentId": "693072",
+      "name": "Canada Life Sustainable Balanced Portfolio - W5",
+      "code": "CL693072",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693072"
+    },
+    "693073": {
+      "instrumentId": "693073",
+      "name": "Canada Life Sustainable Balanced Portfolio - F",
+      "code": "CL693073",
+      "series": "F",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693073"
+    },
+    "693075": {
+      "instrumentId": "693075",
+      "name": "Canada Life Sustainable Balanced Portfolio - F5",
+      "code": "CL693075",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693075"
+    },
+    "693077": {
+      "instrumentId": "693077",
+      "name": "Canada Life Sustainable Balanced Portfolio - N",
+      "code": "CL693077",
+      "series": "N",
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693077"
+    },
+    "693078": {
+      "instrumentId": "693078",
+      "name": "Canada Life Sustainable Balanced Portfolio - N5",
+      "code": "CL693078",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693078"
+    },
+    "693079": {
+      "instrumentId": "693079",
+      "name": "Canada Life Sustainable Balanced Portfolio - QF",
+      "code": "CL693079",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693079"
+    },
+    "693084": {
+      "instrumentId": "693084",
+      "name": "Canada Life Sustainable Balanced Portfolio - QFW",
+      "code": "CL693084",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693084"
+    },
+    "693092": {
+      "instrumentId": "693092",
+      "name": "Canada Life Sustainable Balanced Portfolio - QF5",
+      "code": "CL693092",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693092"
+    },
+    "693093": {
+      "instrumentId": "693093",
+      "name": "Canada Life Sustainable Balanced Portfolio - QFW5",
+      "code": "CL693093",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693093"
+    },
+    "693094": {
+      "instrumentId": "693094",
+      "name": "Canada Life Sustainable Growth Portfolio - A",
+      "code": "CL693094",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693094"
+    },
+    "693095": {
+      "instrumentId": "693095",
+      "name": "Canada Life Sustainable Growth Portfolio - W",
+      "code": "CL693095",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693095"
+    },
+    "693096": {
+      "instrumentId": "693096",
+      "name": "Canada Life Sustainable Growth Portfolio - T5",
+      "code": "CL693096",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693096"
+    },
+    "693097": {
+      "instrumentId": "693097",
+      "name": "Canada Life Sustainable Growth Portfolio - W5",
+      "code": "CL693097",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693097"
+    },
+    "693098": {
+      "instrumentId": "693098",
+      "name": "Canada Life Sustainable Growth Portfolio - F",
+      "code": "CL693098",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693098"
+    },
+    "693100": {
+      "instrumentId": "693100",
+      "name": "Canada Life Sustainable Growth Portfolio - F5",
+      "code": "CL693100",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693100"
+    },
+    "693102": {
+      "instrumentId": "693102",
+      "name": "Canada Life Sustainable Growth Portfolio - N",
+      "code": "CL693102",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693102"
+    },
+    "693103": {
+      "instrumentId": "693103",
+      "name": "Canada Life Sustainable Growth Portfolio - N5",
+      "code": "CL693103",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693103"
+    },
+    "693104": {
+      "instrumentId": "693104",
+      "name": "Canada Life Sustainable Growth Portfolio - QF",
+      "code": "CL693104",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693104"
+    },
+    "693105": {
+      "instrumentId": "693105",
+      "name": "Canada Life Sustainable Growth Portfolio - QFW",
+      "code": "CL693105",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693105"
+    },
+    "693106": {
+      "instrumentId": "693106",
+      "name": "Canada Life Sustainable Growth Portfolio - QF5",
+      "code": "CL693106",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693106"
+    },
+    "693107": {
+      "instrumentId": "693107",
+      "name": "Canada Life Sustainable Growth Portfolio - QFW5",
+      "code": "CL693107",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/693107"
+    },
+    "719266": {
+      "instrumentId": "719266",
+      "name": "Canada Life Global Growth Opportunities Fund A",
+      "code": "CL719266",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719266"
+    },
+    "719267": {
+      "instrumentId": "719267",
+      "name": "Canada Life Global Growth Opportunities Fund F",
+      "code": "CL719267",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719267"
+    },
+    "719269": {
+      "instrumentId": "719269",
+      "name": "Canada Life Global Growth Opportunities Fund N",
+      "code": "CL719269",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719269"
+    },
+    "719270": {
+      "instrumentId": "719270",
+      "name": "Canada Life Global Growth Opportunities Fund QF",
+      "code": "CL719270",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719270"
+    },
+    "719271": {
+      "instrumentId": "719271",
+      "name": "Canada Life Global Growth Opportunities Fund QFW",
+      "code": "CL719271",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719271"
+    },
+    "719273": {
+      "instrumentId": "719273",
+      "name": "Canada Life Global Growth Opportunities Fund W",
+      "code": "CL719273",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719273"
+    },
+    "719274": {
+      "instrumentId": "719274",
+      "name": "Canada Life U.S. Small-Mid Cap Growth Fund A",
+      "code": "CL719274",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719274"
+    },
+    "719275": {
+      "instrumentId": "719275",
+      "name": "Canada Life U.S. Small-Mid Cap Growth Fund F",
+      "code": "CL719275",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719275"
+    },
+    "719277": {
+      "instrumentId": "719277",
+      "name": "Canada Life U.S. Small-Mid Cap Growth Fund N",
+      "code": "CL719277",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719277"
+    },
+    "719278": {
+      "instrumentId": "719278",
+      "name": "Canada Life U.S. Small-Mid Cap Growth Fund QF",
+      "code": "CL719278",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719278"
+    },
+    "719279": {
+      "instrumentId": "719279",
+      "name": "Canada Life U.S. Small-Mid Cap Growth Fund QFW",
+      "code": "CL719279",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719279"
+    },
+    "719280": {
+      "instrumentId": "719280",
+      "name": "Canada Life U.S. Small-Mid Cap Growth Fund W",
+      "code": "CL719280",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719280"
+    },
+    "719371": {
+      "instrumentId": "719371",
+      "name": "Canada Life Precious Metals Fund A",
+      "code": "CL719371",
+      "series": "A",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719371"
+    },
+    "719372": {
+      "instrumentId": "719372",
+      "name": "Canada Life Precious Metals Fund W",
+      "code": "CL719372",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719372"
+    },
+    "719373": {
+      "instrumentId": "719373",
+      "name": "Canada Life Precious Metals Fund F",
+      "code": "CL719373",
+      "series": "F",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719373"
+    },
+    "719375": {
+      "instrumentId": "719375",
+      "name": "Canada Life Precious Metals Fund N",
+      "code": "CL719375",
+      "series": "N",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719375"
+    },
+    "719376": {
+      "instrumentId": "719376",
+      "name": "Canada Life Precious Metals Fund QF",
+      "code": "CL719376",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719376"
+    },
+    "719377": {
+      "instrumentId": "719377",
+      "name": "Canada Life Precious Metals Fund QFW",
+      "code": "CL719377",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/719377"
+    },
+    "727496": {
+      "instrumentId": "727496",
+      "name": "Canada Life International Equity Fund I",
+      "code": "CL727496",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/727496"
+    },
+    "748023": {
+      "instrumentId": "748023",
+      "name": "Canada Life Canadian Growth Fund I",
+      "code": "CL748023",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/748023"
+    },
+    "748024": {
+      "instrumentId": "748024",
+      "name": "Canada Life Money Market Fund I",
+      "code": "CL748024",
+      "series": null,
+      "assetClass": "money_market",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/748024"
+    },
+    "748025": {
+      "instrumentId": "748025",
+      "name": "Canada Life U.S. Value Fund I",
+      "code": "CL748025",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/748025"
+    },
+    "753653": {
+      "instrumentId": "753653",
+      "name": "Canada Life U.S. Value Fund GA‡",
+      "code": "CL753653",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/753653"
+    },
+    "753654": {
+      "instrumentId": "753654",
+      "name": "Canada Life U.S. Value Fund GF‡",
+      "code": "CL753654",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/753654"
+    },
+    "753655": {
+      "instrumentId": "753655",
+      "name": "Canada Life U.S. Value Fund GQF‡",
+      "code": "CL753655",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/753655"
+    },
+    "753656": {
+      "instrumentId": "753656",
+      "name": "Canada Life U.S. Value Fund GW‡",
+      "code": "CL753656",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/753656"
+    },
+    "753657": {
+      "instrumentId": "753657",
+      "name": "Canada Life U.S. Value Fund GN‡",
+      "code": "CL753657",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/753657"
+    },
+    "753658": {
+      "instrumentId": "753658",
+      "name": "Canada Life U.S. Value Fund GQFW‡",
+      "code": "CL753658",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/753658"
+    },
+    "768330": {
+      "instrumentId": "768330",
+      "name": "Canada Life Sustainable Global Bond Fund A",
+      "code": "CL768330",
+      "series": "A",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768330"
+    },
+    "768336": {
+      "instrumentId": "768336",
+      "name": "Canada Life Sustainable Global Bond Fund W",
+      "code": "CL768336",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768336"
+    },
+    "768337": {
+      "instrumentId": "768337",
+      "name": "Canada Life Sustainable Global Bond Fund QF",
+      "code": "CL768337",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768337"
+    },
+    "768338": {
+      "instrumentId": "768338",
+      "name": "Canada Life Sustainable Global Bond Fund QFW",
+      "code": "CL768338",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768338"
+    },
+    "768339": {
+      "instrumentId": "768339",
+      "name": "Canada Life Sustainable Global Bond Fund F",
+      "code": "CL768339",
+      "series": "F",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768339"
+    },
+    "768340": {
+      "instrumentId": "768340",
+      "name": "Canada Life Sustainable Global Bond Fund N",
+      "code": "CL768340",
+      "series": "N",
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768340"
+    },
+    "768341": {
+      "instrumentId": "768341",
+      "name": "Canada Life Sustainable Global Bond Fund I",
+      "code": "CL768341",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768341"
+    },
+    "768342": {
+      "instrumentId": "768342",
+      "name": "Canada Life ESG U.S. Equity Fund A",
+      "code": "CL768342",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768342"
+    },
+    "768343": {
+      "instrumentId": "768343",
+      "name": "Canada Life ESG U.S. Equity Fund W",
+      "code": "CL768343",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768343"
+    },
+    "768344": {
+      "instrumentId": "768344",
+      "name": "Canada Life ESG U.S. Equity Fund QF",
+      "code": "CL768344",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768344"
+    },
+    "768345": {
+      "instrumentId": "768345",
+      "name": "Canada Life ESG U.S. Equity Fund QFW",
+      "code": "CL768345",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768345"
+    },
+    "768346": {
+      "instrumentId": "768346",
+      "name": "Canada Life ESG U.S. Equity Fund F",
+      "code": "CL768346",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768346"
+    },
+    "768347": {
+      "instrumentId": "768347",
+      "name": "Canada Life ESG U.S. Equity Fund N",
+      "code": "CL768347",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768347"
+    },
+    "768348": {
+      "instrumentId": "768348",
+      "name": "Canada Life ESG U.S. Equity Fund I",
+      "code": "CL768348",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768348"
+    },
+    "768355": {
+      "instrumentId": "768355",
+      "name": "Canada Life Sustainable Global Equity Fund A",
+      "code": "CL768355",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768355"
+    },
+    "768356": {
+      "instrumentId": "768356",
+      "name": "Canada Life Sustainable Global Equity Fund W",
+      "code": "CL768356",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768356"
+    },
+    "768357": {
+      "instrumentId": "768357",
+      "name": "Canada Life Sustainable Global Equity Fund QF",
+      "code": "CL768357",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768357"
+    },
+    "768358": {
+      "instrumentId": "768358",
+      "name": "Canada Life Sustainable Global Equity Fund QFW",
+      "code": "CL768358",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768358"
+    },
+    "768359": {
+      "instrumentId": "768359",
+      "name": "Canada Life Sustainable Global Equity Fund F",
+      "code": "CL768359",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768359"
+    },
+    "768360": {
+      "instrumentId": "768360",
+      "name": "Canada Life Sustainable Global Equity Fund N",
+      "code": "CL768360",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768360"
+    },
+    "768361": {
+      "instrumentId": "768361",
+      "name": "Canada Life Sustainable Emerging Markets Equity Fund A",
+      "code": "CL768361",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768361"
+    },
+    "768362": {
+      "instrumentId": "768362",
+      "name": "Canada Life Sustainable Emerging Markets Equity Fund W",
+      "code": "CL768362",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768362"
+    },
+    "768363": {
+      "instrumentId": "768363",
+      "name": "Canada Life Sustainable Emerging Markets Equity Fund QF",
+      "code": "CL768363",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768363"
+    },
+    "768364": {
+      "instrumentId": "768364",
+      "name": "Canada Life Sustainable Emerging Markets Equity Fund QFW",
+      "code": "CL768364",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768364"
+    },
+    "768365": {
+      "instrumentId": "768365",
+      "name": "Canada Life Sustainable Emerging Markets Equity Fund F",
+      "code": "CL768365",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768365"
+    },
+    "768366": {
+      "instrumentId": "768366",
+      "name": "Canada Life Sustainable Emerging Markets Equity Fund N",
+      "code": "CL768366",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768366"
+    },
+    "768367": {
+      "instrumentId": "768367",
+      "name": "Canada Life Sustainable Emerging Markets Equity Fund I",
+      "code": "CL768367",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/768367"
+    },
+    "770481": {
+      "instrumentId": "770481",
+      "name": "Canada Life Diversified Real Assets Fund - A",
+      "code": "CL770481",
+      "series": "A",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/770481"
+    },
+    "770482": {
+      "instrumentId": "770482",
+      "name": "Canada Life Diversified Real Assets Fund - W",
+      "code": "CL770482",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/770482"
+    },
+    "770483": {
+      "instrumentId": "770483",
+      "name": "Canada Life Diversified Real Assets Fund - QF",
+      "code": "CL770483",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/770483"
+    },
+    "770484": {
+      "instrumentId": "770484",
+      "name": "Canada Life Diversified Real Assets Fund - QFW",
+      "code": "CL770484",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/770484"
+    },
+    "770485": {
+      "instrumentId": "770485",
+      "name": "Canada Life Diversified Real Assets Fund - F",
+      "code": "CL770485",
+      "series": "F",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/770485"
+    },
+    "770486": {
+      "instrumentId": "770486",
+      "name": "Canada Life Diversified Real Assets Fund - N",
+      "code": "CL770486",
+      "series": "N",
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/770486"
+    },
+    "787693": {
+      "instrumentId": "787693",
+      "name": "Canada Life Canadian Dividend Fund - U$",
+      "code": "CL787693",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/787693"
+    },
+    "787694": {
+      "instrumentId": "787694",
+      "name": "Canada Life Canadian Dividend Fund - N U$",
+      "code": "CL787694",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/787694"
+    },
+    "787695": {
+      "instrumentId": "787695",
+      "name": "Canada Life Canadian Dividend Fund - W U$",
+      "code": "CL787695",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/787695"
+    },
+    "787696": {
+      "instrumentId": "787696",
+      "name": "Canada Life Strategic Income Fund - U$",
+      "code": "CL787696",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/787696"
+    },
+    "787697": {
+      "instrumentId": "787697",
+      "name": "Canada Life Strategic Income Fund - N U$",
+      "code": "CL787697",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/787697"
+    },
+    "787698": {
+      "instrumentId": "787698",
+      "name": "Canada Life Strategic Income Fund - W U$",
+      "code": "CL787698",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/787698"
+    },
+    "815855": {
+      "instrumentId": "815855",
+      "name": "Canada Life Canadian Core Bond Fund I",
+      "code": "CL815855",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/815855"
+    },
+    "833750": {
+      "instrumentId": "833750",
+      "name": "Canada Life Global Opportunities+ Fund - R",
+      "code": "CL833750",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/833750"
+    },
+    "833752": {
+      "instrumentId": "833752",
+      "name": "Canada Life Global Multi-Asset Defensive Plus Fund - R",
+      "code": "CL833752",
+      "series": null,
+      "assetClass": "balanced",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/833752"
+    },
+    "839923": {
+      "instrumentId": "839923",
+      "name": "Canada Life Canadian Core Plus Bond Fund I",
+      "code": "CL839923",
+      "series": null,
+      "assetClass": "fixed_income",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/839923"
+    },
+    "856304": {
+      "instrumentId": "856304",
+      "name": "Canada Life Canadian Dividend Fund - I",
+      "code": "CL856304",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856304"
+    },
+    "856305": {
+      "instrumentId": "856305",
+      "name": "Canada Life Diversified Real Assets Fund - I",
+      "code": "CL856305",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856305"
+    },
+    "856306": {
+      "instrumentId": "856306",
+      "name": "Canada Life Risk Reduction Pool - I",
+      "code": "CL856306",
+      "series": null,
+      "assetClass": "unknown",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856306"
+    },
+    "856507": {
+      "instrumentId": "856507",
+      "name": "Canada Life Canadian Enhanced Equity Income Fund - A",
+      "code": "CL856507",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856507"
+    },
+    "856508": {
+      "instrumentId": "856508",
+      "name": "Canada Life Canadian Enhanced Equity Income Fund - W",
+      "code": "CL856508",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856508"
+    },
+    "856509": {
+      "instrumentId": "856509",
+      "name": "Canada Life Canadian Enhanced Equity Income Fund - F",
+      "code": "CL856509",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856509"
+    },
+    "856510": {
+      "instrumentId": "856510",
+      "name": "Canada Life Canadian Enhanced Equity Income Fund - I",
+      "code": "CL856510",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856510"
+    },
+    "856511": {
+      "instrumentId": "856511",
+      "name": "Canada Life Canadian Enhanced Equity Income Fund - N",
+      "code": "CL856511",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856511"
+    },
+    "856512": {
+      "instrumentId": "856512",
+      "name": "Canada Life Canadian Enhanced Equity Income Fund - QF",
+      "code": "CL856512",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856512"
+    },
+    "856513": {
+      "instrumentId": "856513",
+      "name": "Canada Life Canadian Enhanced Equity Income Fund - QFW",
+      "code": "CL856513",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856513"
+    },
+    "856514": {
+      "instrumentId": "856514",
+      "name": "Canada Life U.S. Enhanced Equity Income Fund - A",
+      "code": "CL856514",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856514"
+    },
+    "856515": {
+      "instrumentId": "856515",
+      "name": "Canada Life U.S. Enhanced Equity Income Fund- W",
+      "code": "CL856515",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856515"
+    },
+    "856516": {
+      "instrumentId": "856516",
+      "name": "Canada Life U.S. Enhanced Equity Income Fund - F",
+      "code": "CL856516",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856516"
+    },
+    "856517": {
+      "instrumentId": "856517",
+      "name": "Canada Life U.S. Enhanced Equity Income Fund - I",
+      "code": "CL856517",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856517"
+    },
+    "856518": {
+      "instrumentId": "856518",
+      "name": "Canada Life U.S. Enhanced Equity Income Fund - N",
+      "code": "CL856518",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856518"
+    },
+    "856519": {
+      "instrumentId": "856519",
+      "name": "Canada Life U.S. Enhanced Equity Income Fund - QF",
+      "code": "CL856519",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856519"
+    },
+    "856520": {
+      "instrumentId": "856520",
+      "name": "Canada Life U.S. Enhanced Equity Income Fund - QFW",
+      "code": "CL856520",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856520"
+    },
+    "856521": {
+      "instrumentId": "856521",
+      "name": "Canada Life International Enhanced Equity Income Fund - A",
+      "code": "CL856521",
+      "series": "A",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856521"
+    },
+    "856522": {
+      "instrumentId": "856522",
+      "name": "Canada Life International Enhanced Equity Income Fund - W",
+      "code": "CL856522",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856522"
+    },
+    "856523": {
+      "instrumentId": "856523",
+      "name": "Canada Life International Enhanced Equity Income Fund - F",
+      "code": "CL856523",
+      "series": "F",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856523"
+    },
+    "856524": {
+      "instrumentId": "856524",
+      "name": "Canada Life International Enhanced Equity Income Fund - I",
+      "code": "CL856524",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856524"
+    },
+    "856525": {
+      "instrumentId": "856525",
+      "name": "Canada Life International Enhanced Equity Income Fund - N",
+      "code": "CL856525",
+      "series": "N",
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856525"
+    },
+    "856526": {
+      "instrumentId": "856526",
+      "name": "Canada Life International Enhanced Equity Income Fund - QF",
+      "code": "CL856526",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856526"
+    },
+    "856527": {
+      "instrumentId": "856527",
+      "name": "Canada Life International Enhanced Equity Income Fund - QFW",
+      "code": "CL856527",
+      "series": null,
+      "assetClass": "equity",
+      "url": "https://canadalifemutualfunds.fundata.com/Fund/Snapshot/856527"
+    }
+  }
+}

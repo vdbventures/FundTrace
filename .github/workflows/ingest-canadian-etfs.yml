@@ -1,0 +1,70 @@
+name: Ingest Canadian ETFs
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Trigger: weekly Monday 07:00 UTC (approx 3 am ET, before North American open)
+# Also manually dispatchable for a single source or a specific ticker list.
+#
+# No Chromium needed — Vanguard CA uses a plain HTTPS GraphQL endpoint.
+# When iShares CA / BMO are added (browser-based), add puppeteer install here.
+# ─────────────────────────────────────────────────────────────────────────────
+
+on:
+  schedule:
+    - cron: '0 7 * * 1'   # every Monday at 07:00 UTC
+
+  workflow_dispatch:
+    inputs:
+      source:
+        description: 'ETF source  (default: vanguard-ca)'
+        required: false
+        default: 'vanguard-ca'
+      tickers:
+        description: 'Comma-separated tickers — leave blank to run --all'
+        required: false
+        default: ''
+
+jobs:
+  ingest:
+    name: Ingest ${{ github.event.inputs.source || 'vanguard-ca' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30       # well above the expected ~5 min full run
+
+    steps:
+      # ── Checkout ────────────────────────────────────────────────────────────
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # ── Node.js (matches local dev environment) ──────────────────────────────
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      # ── Install deps (no postinstall Chromium download needed for vanguard-ca) ─
+      - name: Install dependencies
+        run: npm ci
+
+      # ── Run ingestion ────────────────────────────────────────────────────────
+      - name: Run ingestion
+        env:
+          NEXT_PUBLIC_SUPABASE_URL:  ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          SOURCE="${{ github.event.inputs.source || 'vanguard-ca' }}"
+          TICKERS="${{ github.event.inputs.tickers }}"
+          if [ -n "$TICKERS" ]; then
+            npx tsx scripts/ingest-canadian-etfs.ts --source "$SOURCE" --ticker "$TICKERS"
+          else
+            npx tsx scripts/ingest-canadian-etfs.ts --source "$SOURCE" --all
+          fi
+
+      # ── Upload review queue artifact (if any unresolved holdings) ────────────
+      - name: Upload review queue
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: review-queue-${{ github.run_id }}
+          path: canadian-etf-review-queue-*.json
+          if-no-files-found: ignore
+          retention-days: 30
