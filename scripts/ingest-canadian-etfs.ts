@@ -161,7 +161,7 @@ async function ingestTicker(
   source: string,
   ticker: string,
   reviewQueue: ReviewQueueEntry[]
-): Promise<{ status: 'ok' | 'no-op' | 'error'; message?: string }> {
+): Promise<{ status: 'ok' | 'no-op' | 'skip' | 'error'; message?: string }> {
   console.log(`\n${'─'.repeat(60)}`);
   console.log(`Ingesting: ${ticker} (${source})`);
 
@@ -175,7 +175,9 @@ async function ingestTicker(
   }
 
   if (!result) {
-    return { status: 'error', message: `fetchFundHoldings returned null for ${ticker}` };
+    // API returned no data — not a DB error. Some ETFs (Canadian equity, bonds,
+    // factor) don't expose delayeredHoldings. Treat as skip, not failure.
+    return { status: 'skip', message: `no holdings data available from API` };
   }
 
   console.log(`  Period:    ${result.period}  (asOfDate: ${result.asOfDate})`);
@@ -358,15 +360,18 @@ async function main() {
   console.log(`Tickers: ${tickers.join(', ')}`);
 
   const reviewQueue: ReviewQueueEntry[] = [];
-  const summary = { ok: 0, noop: 0, error: 0 };
+  const summary = { ok: 0, noop: 0, skip: 0, error: 0 };
 
   for (let i = 0; i < tickers.length; i++) {
     const ticker = tickers[i];
     try {
       const result = await ingestTicker(supabase, source, ticker, reviewQueue);
-      if (result.status === 'ok')       summary.ok++;
+      if (result.status === 'ok')         summary.ok++;
       else if (result.status === 'no-op') summary.noop++;
-      else {
+      else if (result.status === 'skip') {
+        summary.skip++;
+        console.log(`  ↷ ${ticker}: ${result.message}`);
+      } else {
         summary.error++;
         console.error(`  ✗ ${ticker}: ${result.message}`);
       }
@@ -386,6 +391,7 @@ async function main() {
   console.log('Summary:');
   console.log(`  Ingested: ${summary.ok}`);
   console.log(`  No-op:    ${summary.noop}`);
+  console.log(`  Skipped:  ${summary.skip}  (no delayeredHoldings from API)`);
   console.log(`  Error:    ${summary.error}`);
 
   if (reviewQueue.length > 0) {
